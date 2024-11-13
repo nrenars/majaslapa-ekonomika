@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karte cilvekiem ar invaliditati</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Kulturas iestazu un pasakumu pieejamiba cilvekiem ar invaliditati</h1>
+
+    <div id="map"></div>
+
+    <script src="script.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE&map_ids=bc02ef078ae8cd67&callback=initMap"></script>
+    <style>
+        .info-window {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.5;
+            padding: 10px;
+            max-width: 200px; /* Ierobežo info window platumu */
+        }
+        .info-window strong {
+            color: #333;
+            font-size: 16px;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .info-window .availability {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .info-window .details {
+            margin-top: 5px;
+            list-style-type: none;
+            padding: 0;
+        }
+        .info-window .details li {
+            margin: 2px 0;
+        }
+      </style>
+      
+</body>
+</html>
+<!-- api key: AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE -->
