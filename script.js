@@ -23,7 +23,8 @@ function initMap() {
             const polylineOptions = { 
                 good: { strokeColor: "#00FF00", strokeOpacity: 0.7, strokeWeight: 3 },
                 moderate: { strokeColor: "#FFFF00", strokeOpacity: 0.7, strokeWeight: 3 },
-                poor: { strokeColor: "#FF0000", strokeOpacity: 0.7, strokeWeight: 3 }
+                poor: { strokeColor: "#FF0000", strokeOpacity: 0.7, strokeWeight: 3 },
+                notDone: { strokeColor: "#0000FF", strokeOpacity: 0.7, strokeWeight: 3 } 
             };
 
             // Loop through each street and create a polyline
@@ -55,3 +56,6 @@ function initMap() {
             console.error("Error loading JSON data:", error);
         });
 }
+
+// Ļudoņas iela
+// Apmetņu iela
