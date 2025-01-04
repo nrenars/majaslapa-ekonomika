@@ -1,0 +1,1843 @@
+[
+    {
+      "path": [
+        {"lat": 56.94906330565377, "lng": 24.18521305262805},
+        {"lat": 56.94912082567361, "lng": 24.184850591659956}
+      ],
+      "street_name": "Dārzciema iela",
+      "zebra": true,
+      "ramp": true,
+      "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94568093360132,
+            "lng": 24.18341557456752
+            },
+            {
+            "lat": 56.94551333621242, 
+            "lng": 24.183355913474212
+            }
+        ],
+        "street_name": "Sesku iela",
+        "zebra": true,
+        "ramp": true,
+        "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94568093360132,
+            "lng": 24.18341557456752
+            },
+            {   
+            "lat": 56.94572707940913, 
+            "lng": 24.183064510032654
+            }
+        ],
+        "street_name": "Dārzciema iela",
+        "zebra": true,
+        "ramp": true,
+        "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.945663177305704, 
+            "lng": 24.18295619384535
+            },
+            {
+            "lat": 56.945493368760566,
+            "lng": 24.182923758973097
+            }
+        ],
+        "street_name": "Sesku iela",
+        "zebra": true,
+        "ramp": true,
+        "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.945493368760566,
+            "lng": 24.182923758973097
+            },
+            {
+            "lat": 56.94548473084689, 
+            "lng": 24.18332422311014
+            }
+        ],
+        "street_name": "Dārzciema iela",
+        "zebra": true,
+        "ramp": true,
+        "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.944473681358964,
+            "lng": 24.17311921487822
+            },
+            {
+            "lat": 56.94463084021235,
+            "lng": 24.17295337171386
+            }
+        ],
+        "street_name": "Sesku iela",
+        "zebra": true,
+        "ramp": true,
+        "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.944708274251944, 
+            "lng": 24.17284318694343
+            },
+            {
+            "lat": 56.94461361129142, 
+            "lng": 24.172491736197426
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.944558053951546,
+            "lng": 24.172520785571294
+            },
+            {
+            "lat": 56.94444965922668,
+            "lng": 24.17263161547892
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.944312401713226, 
+            "lng": 24.17274774579537
+            },
+            {
+            "lat": 56.94441682285441, 
+            "lng": 24.173139571491816
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93960604791301, 
+            "lng": 24.172282962547197
+            },
+            {
+            "lat": 56.93949559012376, 
+            "lng": 24.171901840576076
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93946799239612,
+            "lng": 24.17265622216879
+            },
+            {
+            "lat": 56.93958162139465, 
+            "lng": 24.17254198935225
+            }
+        ],
+    "street_name": "Pildas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.939293780895, 
+            "lng": 24.172671387826217
+            },
+            {
+            "lat": 56.93916845653922, 
+            "lng": 24.172200717465792
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93920942251815,
+            "lng": 24.171933944970686
+            },
+            {
+            "lat": 56.93931950831324, 
+            "lng": 24.17182042912528
+            }
+        ],
+    "street_name": "Pildas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.95058447776314,
+            "lng": 24.17359355000249
+            },
+            {
+            "lat": 56.950609841637366, 
+            "lng": 24.173308863937304
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.948811016382784,
+            "lng": 24.17234179882364
+            },
+            {
+            "lat": 56.948625608063864, 
+            "lng": 24.172260799187534
+            }
+        ],
+    "street_name": "Stopiņu iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94690107308246,
+            "lng": 24.17157884716969
+            },
+            {
+            "lat": 56.94698911335071,
+            "lng": 24.171586718971746
+            }
+        ],
+    "street_name": "Zeltiņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94601694596735,
+            "lng": 24.195565785361445
+            },
+            {
+            "lat": 56.945835873962736,
+            "lng": 24.195552904251816
+            }
+        ],
+    "street_name": "Sesku iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.934567375290385,
+            "lng": 24.176503456647744
+            },
+            {
+            "lat": 56.934686571970346,
+            "lng": 24.176407250199148
+            }
+        ],
+    "street_name": "Rēzeknes iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93470802049225, 
+            "lng": 24.176404279213823
+            },
+            {
+            "lat": 56.93483779489974, 
+            "lng": 24.176838972751654
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.934759196950345,
+            "lng": 24.177048651861426
+            },
+            {
+            "lat": 56.934596651834106, 
+            "lng": 24.177091275624885
+            }
+        ],
+    "street_name": "Rēzeknes iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.934596651834106, 
+            "lng": 24.177091275624885
+            },
+            {
+            "lat": 56.93446446784465, 
+            "lng": 24.17661269105391
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.934596651834106, 
+            "lng": 24.177091275624885
+            },
+            {
+            "lat": 56.934550429298305,
+            "lng": 24.177259607026937
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93239339789401, 
+            "lng": 24.181524877006858
+            },
+            {
+            "lat": 56.93236059408395,
+            "lng": 24.181872779897866 
+            }
+        ],
+    "street_name": "Dārzciema iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93491682560382,
+            "lng": 24.182165819368226
+            },
+            {
+            "lat": 56.93509235714561,
+            "lng": 24.182147970596986
+            }
+        ],
+    "street_name": "Rēzeknes iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.935123642217825,
+            "lng": 24.18233247417263
+            },
+            {
+            "lat": 56.93512141843768, 
+            "lng": 24.182655590775795
+            }
+        ],
+    "street_name": "Dārzciema iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93506193103697,
+            "lng": 24.182723166773535
+            },
+            {
+            "lat": 56.93501187548851,
+            "lng": 24.18272807976143
+            },
+            {
+            "lat": 56.934965529341774,
+            "lng": 24.182728691523604
+            }
+        ],
+    "street_name": "Rēzeknes iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93197308210279, 
+            "lng": 24.179890753547276
+            },
+            {
+            "lat": 56.93195013473046, 
+            "lng": 24.17976106060087
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93182036721162,
+            "lng": 24.179299602388582
+            },
+            {
+            "lat": 56.931782021991964, 
+            "lng": 24.179136574937537
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93148885756763,
+            "lng": 24.17825022580296
+            },
+            {
+            "lat": 56.93141834212458, 
+            "lng": 24.178248387369123
+            }
+        ],
+    "street_name": "Lubānas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.931177712414986, 
+            "lng": 24.178160501088225
+            },
+            {
+            "lat": 56.93109082280625,
+            "lng": 24.178088759329594
+            }
+        ],
+    "street_name": "Lubānas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.950562704970515,
+            "lng": 24.163561962901092
+            },
+            {
+            "lat": 56.95043670481174,
+            "lng": 24.16359279308575
+            },
+            {
+            "lat": 56.95043306781988, 
+            "lng": 24.163538581346025
+            },
+            {
+            "lat": 56.950313349163814, 
+            "lng": 24.163572467087487
+            }
+        ],
+    "street_name": "Vestienas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.950313349163814, 
+            "lng": 24.163572467087487
+            },
+            {
+            "lat": 56.95024715825387, 
+            "lng": 24.163728081773918
+            }
+        ],
+    "street_name": "Vestienas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.950313349163814, 
+            "lng": 24.163572467087487
+            },
+            {
+            "lat": 56.95024599325705, 
+            "lng": 24.163486927266828
+            },
+            {
+            "lat": 56.95022320515604, 
+            "lng": 24.163289714089434
+            },
+            {
+            "lat": 56.950268628079826, 
+            "lng": 24.163278488260893 
+            },
+            {
+            "lat": 56.950231317448925, 
+            "lng": 24.162945108301958
+            }
+        ],
+    "street_name": "Vestienas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.948337433087104,
+            "lng": 24.164150518099444
+            },
+            {
+            "lat": 56.948180502551345,
+            "lng": 24.164204329209166
+            }
+        ],
+    "street_name": "Zeltiņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.9457304697639,
+            "lng": 24.165754963875145
+            },
+            {
+            "lat": 56.9456616068858, 
+            "lng": 24.1658099589749
+            },
+            {
+            "lat": 56.945586857676716, 
+            "lng": 24.165893546783057
+            },
+            {
+            "lat": 56.94555517659504,
+            "lng": 24.165907451510563
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.9457304697639,
+            "lng": 24.165754963875145
+            },
+            {
+            "lat": 56.9456616068858, 
+            "lng": 24.1658099589749
+            },
+            {
+            "lat": 56.945586857676716, 
+            "lng": 24.165893546783057
+            },
+            {
+            "lat": 56.94555517659504,
+            "lng": 24.165907451510563
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.9457304697639,
+            "lng": 24.165754963875145
+            },
+            {
+            "lat": 56.9456616068858, 
+            "lng": 24.1658099589749
+            },
+            {
+            "lat": 56.945586857676716, 
+            "lng": 24.165893546783057
+            },
+            {
+            "lat": 56.94555517659504,
+            "lng": 24.165907451510563
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94555517659504,
+            "lng": 24.165907451510563
+            },
+            {
+            "lat":56.94551325714471, 
+            "lng": 24.165744320184075
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94522362528953, 
+            "lng": 24.16466973445815
+            },
+            {
+            "lat": 56.94519754075735, 
+            "lng": 24.16442216804462
+            }
+        ],
+    "street_name": "Vestienas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94465025071073, 
+            "lng": 24.170003859438193
+            },
+            {
+            "lat": 56.9445559555507, 
+            "lng": 24.169911439304528
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94083623725925,
+            "lng": 24.17120973724732
+            },
+            {
+            "lat": 56.94094106045242,
+            "lng": 24.171087176103786
+            }
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.946198152038065,
+            "lng": 24.164072221108203
+            },
+            {
+            "lat": 56.94609360968776,
+            "lng": 24.16401770092704
+            }
+        ],
+    "street_name": "Vietalvas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94612928091848, 
+            "lng": 24.17198924456751
+            },
+            {
+            "lat": 56.9461066968248, 
+            "lng": 24.17158089134779
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.9407758036262, 
+            "lng": 24.176183393811865
+            },
+            {
+            "lat": 56.94086274366423, 
+            "lng": 24.176466231293897
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94177810153158,
+            "lng": 24.175642780437094
+            },
+            {
+            "lat": 56.94180686780616, 
+            "lng": 24.175618135187758
+            },
+            {
+            "lat": 56.94184568569596, 
+            "lng": 24.17558094523171
+            }
+
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.941768825459974, 
+            "lng": 24.17518185318195
+            },
+            {
+            "lat": 56.941736551596826, 
+            "lng": 24.175241853644657 
+            },
+            {
+            "lat": 56.9417123209591, 
+            "lng": 24.175291317888462
+            }
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94295577328981,
+            "lng": 24.17403441341337
+            },
+            {
+            "lat": 56.94289561747057, 
+            "lng": 24.174108992009568
+            }
+        ],
+    "street_name": "Rumbulas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94300553205234, 
+            "lng": 24.1744869470935
+            },
+            {
+            "lat": 56.942957122374594,
+            "lng": 24.17453201312306
+            },
+            {
+            "lat": 56.94290736704961, 
+            "lng": 24.174586736894852
+            }
+
+        ],
+    "street_name": "Rumbulas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94532033386934, 
+            "lng": 24.17190523606202
+            },
+            {
+            "lat": 56.94524967860756, 
+            "lng": 24.17195078114311
+            }
+        ],
+    "street_name": " ",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94529175985433, 
+            "lng": 24.172383777891856
+            },
+            {
+            "lat": 56.94535025888755,
+            "lng": 24.17233100521499
+            },
+            {
+            "lat": 56.945388528209456, 
+            "lng": 24.172298288618776
+            }
+
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94529175985433, 
+            "lng": 24.172383777891856
+            },
+            {
+            "lat": 56.94535806306487, 
+            "lng": 24.17266476762208
+            }
+        ],
+    "street_name": " ",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94377980738823, 
+            "lng": 24.18272788515512
+            },
+            {
+                "lat": 56.94369145404318,
+                "lng": 24.18269649602897
+            },
+            {
+            "lat": 56.943648367828295, 
+            "lng": 24.182678770579717
+            }
+        ],
+    "street_name": "Kārsavas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94373308009334, 
+                "lng": 24.18230803174792
+            },
+            {
+            "lat": 56.94365042371062, 
+            "lng": 24.182278417144705
+            }
+        ],
+    "street_name": "Rumbulas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.942080090294915, 
+            "lng": 24.181730633971732
+            },
+            {
+            "lat": 56.94203537670341, 
+            "lng": 24.182098223384067
+            }
+        ],
+    "street_name": "Dārzciema iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94194780975673, 
+            "lng": 24.182077562855078
+            },
+            {
+            "lat": 56.941901599246975, 
+            "lng": 24.182086225270762
+            },
+            {
+            "lat": 56.94186367364999, 
+            "lng": 24.182085666474173
+            }
+        ],
+    "street_name": "Pildas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.941771063390654, 
+            "lng": 24.182000250424732
+            },
+            {
+            "lat": 56.941780796133905,
+            "lng": 24.1816505628932
+            }
+        ],
+    "street_name": "Dārzciema iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94184308421333,
+            "lng": 24.181574608442507
+            },
+            {
+            "lat": 56.94196429590093,
+            "lng": 24.18157702248965
+            }
+        ],
+    "street_name": "Pildas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": true
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93420326108918, 
+            "lng": 24.182404529710860
+            },
+            {
+            "lat": 56.93414269759195,
+            "lng": 24.182388202221976
+            },
+            {
+            "lat": 56.93407255426564, 
+            "lng":24.18237342030633 
+            }
+        ],
+    "street_name": "Ļudoņas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93775991289101, 
+            "lng": 24.18240033620357
+            },
+            {
+            "lat": 56.93770420392416, 
+            "lng": 24.182414095964212
+            },
+            {
+            "lat": 56.93763944565217, 
+            "lng": 24.182419684993963
+            }
+        ],
+    "street_name": "Strautu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.937559330981074, 
+            "lng": 24.182419426333812
+            },
+            {
+            "lat": 56.93754256491095, 
+            "lng": 24.182035481528153
+            }
+        ],
+    "street_name": "Dārzciema iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.93357854150957, 
+            "lng": 24.182255419635826
+            },
+            {
+            "lat": 56.93349342557531,
+            "lng": 24.18222973751712
+            }
+        ],
+    "street_name": "Skudru iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.932891309672335, 
+            "lng": 24.182122253726703
+            },
+            {
+            "lat": 56.93293355030643, 
+            "lng": 24.182125461953714
+            },
+            {
+            "lat": 56.93296827268422, 
+            "lng": 24.182133913113947 
+            }
+        ],
+    "street_name": "Sitas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.947307585153915, 
+            "lng": 24.183891814966994
+            },
+            {
+            "lat": 56.94735080485467,
+            "lng":  24.18391534170217
+            },
+            {
+            "lat": 56.94739922096101, 
+            "lng": 24.183941114420048
+            }
+            
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94793294500924, 
+            "lng": 24.184217192228864
+            },
+            {
+            "lat": 56.94799043431925,
+            "lng": 24.184245071088668
+            },
+            {
+            "lat": 56.94805050051417, 
+            "lng": 24.184276249373532
+            }
+        ],
+    "street_name": "Stopiņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.94734056081892, 
+            "lng": 24.184283723476998
+            },
+            {
+            "lat": 56.94738218320468, 
+            "lng": 24.18430905273893
+            },
+            {
+            "lat": 56.94741017322206, 
+            "lng": 24.184320564674785
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93438561156342,
+                "lng": 24.175715583587337
+            },
+            {
+                "lat": 56.93438823654814,
+                "lng": 24.176031117860866
+            }
+        ],
+    "street_name": "Līvānu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93196286226314,
+                "lng": 24.1745929391268
+            },
+            {
+            "lat": 56.93194279501132, 
+            "lng": 24.174741921519924
+            }
+        ],
+    "street_name": "Līvānu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.9320213813471,
+                "lng": 24.173445146039494
+            },
+            {
+                "lat": 56.93199413444655,
+                "lng": 24.173634420015055
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.930435022094954,
+                "lng": 24.17844481559065
+            },
+            {
+                "lat": 56.93038349808249,
+                "lng": 24.178376759428602
+            }
+        ],
+    "street_name": "Līvānu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+            "lat": 56.92900217639192,
+            "lng": 24.176833243193038
+            },
+            {
+                "lat": 56.92893931718802,
+                "lng": 24.176758509419248
+            }
+        ],
+    "street_name": "Zundānu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93304214029945, 
+                "lng": 24.19506339813847
+            },
+            {
+                "lat": 56.933081073302446, 
+                "lng": 24.195063256453878
+            },
+            {
+                "lat": 56.93311512671764, 
+                "lng": 24.195063132526858
+            }
+        ],
+    "street_name": "Kupravas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            { 
+                "lat": 56.93357504015114, 
+                "lng": 24.195017184795848
+            },
+            {
+                "lat": 56.93360614234245, 
+                "lng": 24.19501097902091
+            },
+            {
+                "lat": 56.93364102830885, 
+                "lng": 24.195007673202323
+            }
+        ],
+    "street_name": "Sitas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.934208000678346, 
+                "lng": 24.194973288543185
+            },
+            {
+                "lat": 56.93422864488673, 
+                "lng": 24.19496703712851
+            },
+            {
+                "lat": 56.93428782456785, 
+                "lng": 24.194950900864747
+            }
+        ],
+    "street_name": "Skudru iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.935406070125524, 
+                "lng": 24.194886168451056
+            },
+            {
+                "lat": 56.93547526772645, 
+                "lng": 24.194877557562894
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93665507586864, 
+                "lng": 24.194818103420197
+            },
+            {
+                "lat": 56.93670059726477, 
+                "lng": 24.194818435458533
+            },
+            {
+                "lat": 56.9367444676349, 
+                "lng": 24.194815659878568
+            }
+        ],
+    "street_name": "Rēzeknes iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93752524642247, 
+                "lng": 24.19478142090077
+            },
+            {
+                "lat": 56.93755479572508,
+                "lng": 24.1947845452427
+            },
+            {
+                "lat": 56.93759557522659, 
+                "lng": 24.19478252643134
+            }
+        ],
+    "street_name": "Raicenes iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93931173195333, 
+                "lng": 24.194797809510014
+            },
+            {
+                "lat": 56.93934409446251,
+                "lng": 24.194796114765435
+            },
+            {
+                "lat": 56.93938939379808, 
+                "lng": 24.194795208133797
+            }
+        ],
+    "street_name": "Preiļu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94139435582031, 
+                "lng": 24.194975515798202
+            },
+            {
+                "lat": 56.94142812557195,
+                "lng": 24.194983668579066
+            },
+            {
+                "lat": 56.94145890745542, 
+                "lng": 24.194996486417693
+            }
+        ],
+    "street_name": "Kameņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94281544350789, 
+                "lng": 24.19518163806633
+            },
+            {
+                "lat": 56.9429109899299, 
+                "lng": 24.19523457281193
+            },
+            {
+                "lat": 56.94297649329256,
+                "lng": 24.1952724969415
+            }
+        ],
+    "street_name": "Strautu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94416815649855,
+                "lng": 24.19539287233367
+            },
+            {
+                "lat": 56.94420311660205, 
+                "lng": 24.19541530598716
+            },
+            {
+            "lat": 56.94424285274797,
+            "lng": 24.195433786663045
+            }
+        ],
+    "street_name": "Kārsavas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94631899520057, 
+                "lng": 24.195619820888513
+            },
+            {
+                "lat": 56.94641612900013, 
+                "lng": 24.19563179254695
+            }
+        ],
+    "street_name": "Zebiekstes iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94663178541197,
+                "lng": 24.195666812623678
+            },
+            {
+                "lat": 56.94671018352212,
+                "lng": 24.19570648995682
+            }
+        ],
+    "street_name": "Zebiekstes iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94877039049974,
+                "lng": 24.187942556417887
+            },
+            {
+                "lat": 56.94878840864262, 
+                "lng": 24.187773772886896
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94894743149305,
+                "lng": 24.186623270028
+            },
+            {
+                "lat": 56.94895392765297, 
+                "lng": 24.186563160904353
+            },
+            {
+                "lat": 56.94896340342309, 
+                "lng": 24.186497407002022
+            }
+        ],
+    "street_name": "Jenotu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.949366962687975, 
+                "lng": 24.183524784212548
+            },
+            {
+                "lat": 56.94935747979899, 
+                "lng": 24.18359918613491
+            },
+            {
+                "lat": 56.94934646534016, 
+                "lng": 24.183676467802236
+            }
+        ],
+    "street_name": "Aizvaru iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.95005536978948, 
+                "lng": 24.17830909535259
+            },
+            {
+                "lat": 56.95006415415873, 
+                "lng": 24.178243998669252
+            },
+            {
+                "lat": 56.95007120610232, 
+                "lng": 24.178192070468317
+            }
+        ],
+    "street_name": "Aizvaru iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.950275068445485,
+                "lng": 24.1766208933631
+            },
+            {
+                "lat": 56.950308657710586, 
+                "lng": 24.176411873898996
+            }
+        ],
+    "street_name": "Lapsu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.951127636980765,
+                "lng": 24.170220269564265
+            },
+            {
+                "lat": 56.951150969575586,
+                "lng": 24.17011067167382
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94929292193991,
+                "lng": 24.172604404261772
+            },
+            {
+            "lat": 56.949192794432854,
+            "lng": 24.172572191093224
+            }
+        ],
+    "street_name": "Itas Kozakēvičas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94862475657033, 
+                "lng": 24.1727675969178
+            },
+            {
+                "lat": 56.948600261039424, 
+                "lng": 24.17274517605398
+            },
+            {
+                "lat": 56.94857162632745, 
+                "lng": 24.172709414290075
+            }
+        ],
+    "street_name": "Stopiņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94690281335148, 
+                "lng": 24.17199034512078
+            },
+            {
+                "lat": 56.94686216213793, 
+                "lng": 24.17197669839084
+            },
+            {
+                "lat": 56.94684108303239, 
+                "lng": 24.171971218514937
+            }
+        ],
+    "street_name": "Zeltiņu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94592166389308, 
+                "lng": 24.191838503374576
+            },
+            {
+                "lat": 56.9458238724671, 
+                "lng": 24.191842222467024
+            }
+        ],
+    "street_name": "Sesku iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94596880426303,
+                "lng": 24.191587171706217
+            },
+            {
+                "lat": 56.94596895747183,
+                "lng": 24.191796308773515
+            }
+        ],
+    "street_name": "Zebiekstes iela",
+    "zebra": false,
+    "ramp": false,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.945771066242884, 
+                "lng": 24.185895134995558 
+            },
+            {
+                "lat": 56.94577320451072,
+                "lng": 24.186031670032495
+            }
+        ],
+    "street_name": "Jenotu iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94611672516969,
+                "lng": 24.18622769711669
+            },
+            {
+                "lat": 56.94616926971517,
+                "lng": 24.186240528982818
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": false,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.947746787979824,
+                "lng":  24.187206544395437
+            },
+            {
+                "lat": 56.94779509759878, 
+                "lng": 24.187231745415907
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": false,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94825362463492, 
+                "lng": 24.187472426610658
+            },
+            {
+                "lat": 56.9483181048393,
+                "lng": 24.187530408479773
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": false,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93858266154691,
+                "lng": 24.173335272059003
+            },
+            {
+                "lat": 56.93845248281662,
+                "lng": 24.173451529970066
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [ 
+            {
+                "lat": 56.93745217046848,
+                "lng": 24.174385328053067
+            },
+            {
+                "lat": 56.93734772983294,
+                "lng": 24.174496722897114
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93752783733702, 
+                "lng": 24.174320024008086
+            },
+            {
+                "lat": 56.93741142197047, 
+                "lng": 24.173925550537387
+            }
+        ],
+    "street_name": "Piedrujas iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.9362633573203,
+                "lng": 24.17551386956822
+            },
+            {
+                "lat": 56.936198462320306,
+                "lng": 24.175573607401414
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.935904230273664,
+                "lng": 24.175844986196136
+            },
+            {
+                "lat": 56.935822479444056,
+                "lng": 24.175923916434353
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93546710281045,
+                "lng": 24.17562768045987
+            },
+            {
+                "lat": 56.93557245809148,
+                "lng": 24.17558520879345
+            }
+
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93844157346677, 
+                "lng": 24.17288975801057
+            },
+            {
+                "lat": 56.93838569601832, 
+                "lng": 24.172940908780497
+            },
+            {
+                "lat": 56.938322280066, 
+                "lng": 24.172996155208576
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94068543301189,
+                "lng": 24.170809358017145
+            },
+            {
+                "lat": 56.94074563060046, 
+                "lng": 24.1707261651137
+            },
+            {
+                "lat": 56.94078887168289,
+                "lng": 24.170674438430026
+            }
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    }
+
+
+]

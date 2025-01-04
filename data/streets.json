@@ -2,8 +2,8 @@
     {
       "path": [
         {
-          "lat": 56.945727287527696,
-          "lng": 24.187242676396203
+          "lat": 56.945663764492934,
+          "lng": 24.187261896178015
         },
         {
           "lat": 56.942418544727964,
@@ -11,8 +11,10 @@
         }
       ],
       "street_name": "Istras iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -25,9 +27,18 @@
           "lng": 24.185227178757184
         },
         {
-          "lat": 56.94298651882593,
-          "lng": 24.185227178757184
-        },
+          "lat": 56.94217924812478,
+          "lng": 24.185481565783522
+        }
+      ],
+      "street_name": "Krauķu iela",
+      "quality": "poor",
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
           "lat": 56.94217924812478,
           "lng": 24.185481565783522
@@ -46,8 +57,10 @@
         }
       ],
       "street_name": "Krauķu iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -62,7 +75,9 @@
       ],
       "street_name": "Zvārtavas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -97,7 +112,9 @@
       ],
       "street_name": "Stopiņu iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -118,13 +135,15 @@
           "lng": 24.183432035875708
         },
         {
-          "lat": 56.949354419757725,
-          "lng": 24.183590909705547
+          "lat": 56.94935747979899, 
+          "lng": 24.18359918613491
         }
       ],
       "street_name": "Aizvaru iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -159,7 +178,9 @@
       ],
       "street_name": "Aizvaru iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -178,7 +199,9 @@
       ],
       "street_name": "Aizvaru iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -192,8 +215,10 @@
         }
       ],
       "street_name": "Steigas iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -247,8 +272,10 @@
         }
       ],
       "street_name": "Gaismas iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -266,8 +293,10 @@
         }
       ],
       "street_name": "Gaismas iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -289,8 +318,10 @@
         }
         ],
         "street_name": "Lapsu iela",
-        "quality": "poor",
-        "sidewalk": false
+        "quality": "good",
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
         "path": [
@@ -305,7 +336,9 @@
       ],
       "street_name": "Lapsu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -328,7 +361,9 @@
       ],
       "street_name": "Zvārtavas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -342,14 +377,16 @@
         }
       ],
       "street_name": "Zvārtavas iela",
-      "quality": "poor",
-      "sidewalk": false
+      "quality": "moderate",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94180531296019,
-          "lng": 24.175630343127608
+          "lat": 56.94180686780616, 
+          "lng": 24.175618135187758
         },
         {
           "lat": 56.94208668373423,
@@ -358,7 +395,9 @@
       ],
       "street_name": "Kaibalas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -367,19 +406,21 @@
           "lng": 24.171644797253762
         },
         {
-          "lat": 56.94173646891943,
-          "lng": 24.175266460397733
+        "lat": 56.941736551596826, 
+        "lng": 24.175241853644657 
         }
       ],
       "street_name": "Kaibalas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.9376982145684,
-          "lng": 24.18242345470083
+          "lat": 56.93770420392416, 
+          "lng": 24.182414095964212
         },
         {
           "lat": 56.937704217425846,
@@ -394,19 +435,21 @@
           "lng": 24.19511298248856
         },
         {
-          "lat": 56.942896357430655,
-          "lng": 24.195203480990017
+          "lat": 56.9429109899299, 
+          "lng": 24.19523457281193
         }
       ],
       "street_name": "Strautu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.942896357430655,
-          "lng": 24.195203480990017
+          "lat": 56.9429109899299, 
+          "lng": 24.19523457281193
         },
         {
           "lat": 56.94297897981934,
@@ -437,13 +480,15 @@
           "lng": 24.182395695568623
         },
         {
-          "lat": 56.94189574557015,
-          "lng": 24.182047374403997
+        "lat": 56.941901599246975, 
+        "lng": 24.182086225270762
         }
       ],
       "street_name": "Pildas iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -458,13 +503,15 @@
       ],
       "street_name": "Barkavas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94424285274797,
-          "lng": 24.195433786663045
+          "lat": 56.94420311660205, 
+          "lng": 24.19541530598716
         },
         {
           "lat": 56.94415981978037,
@@ -485,7 +532,9 @@
       ],
       "street_name": "Kārsavas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -500,7 +549,9 @@
       ],
       "street_name": "Grīšļu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -515,7 +566,9 @@
       ],
       "street_name": "Papardes iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -530,7 +583,9 @@
       ],
       "street_name": "Skaņu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -553,7 +608,9 @@
       ],
       "street_name": "Rumbulas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -572,7 +629,9 @@
       ],
       "street_name": "Zvārtavas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -603,7 +662,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -722,7 +783,9 @@
       ],
       "street_name": "Ūbeles iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -737,7 +800,9 @@
       ],
       "street_name": "Kaķu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -764,7 +829,9 @@
       ],
       "street_name": "Kaķu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -807,14 +874,16 @@
       ],
       "street_name": "Kaķu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     
     {
       "path": [
         {
-          "lat": 56.93670135478011,
-          "lng": 24.19480509808585
+          "lat": 56.93670059726477, 
+          "lng": 24.194818435458533
         },
         {
           "lat": 56.93632154813975,
@@ -855,7 +924,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -890,7 +961,9 @@
         ],
         "street_name": "Preiļu iela",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
 
     },
     {
@@ -918,13 +991,15 @@
       ],
       "street_name": "Preiļu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.934228366752,
-          "lng": 24.19497758524771
+          "lat": 56.93422864488673, 
+          "lng": 24.19496703712851
         },
         {
           "lat": 56.93378249167908,
@@ -941,7 +1016,9 @@
         ],
         "street_name": "Skudru iela",
         "quality": "moderate",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
         "path": [
@@ -964,7 +1041,9 @@
       ],
       "street_name": "Skudru iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -979,8 +1058,10 @@
       ],
       "street_name": "Skudru iela",
       "quality": "good",
-      "sidewalk": true
-},
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
     {
           "path": [
           {
@@ -994,7 +1075,9 @@
           ],
           "street_name": " ",
           "quality": "poor",
-          "sidewalk": false
+          "sidewalk": false,
+          "paved": false,
+          "obstacles": []
     },
     {
         "path": [
@@ -1009,13 +1092,15 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94735499316713,
-          "lng": 24.183903865514296
+          "lat": 56.94735080485467,
+          "lng": 24.18391534170217
         },
         {
           "lat": 56.947421848526794,
@@ -1024,13 +1109,15 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94738078971168,
-          "lng": 24.184313122882592
+          "lat": 56.94738218320468, 
+          "lng": 24.18430905273893
         },
         {
           "lat": 56.94714998678658,
@@ -1039,13 +1126,15 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.933608413665496,
-          "lng": 24.195028374530978
+          "lat": 56.93360614234245, 
+          "lng": 24.19501097902091
         },
         {
           "lat": 56.93343399115502,
@@ -1070,7 +1159,9 @@
         ],
         "street_name": "Sitas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -1085,7 +1176,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
         "path": [
@@ -1118,20 +1211,22 @@
           "lng": 24.18256632392837
         },
         {
-          "lat": 56.932924460063255,
-          "lng": 24.182038169605377
+          "lat": 56.93293355030643, 
+          "lng": 24.182125461953714
         }
       ],
       "street_name": "Sitas iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.93308273824965,
-          "lng": 24.195074420273233
-        },
+          "lat": 56.933081073302446, 
+          "lng": 24.195063256453878
+        },  
         {
           "lat": 56.93295553421875,
           "lng": 24.194349390924213
@@ -1147,6 +1242,18 @@
         {
           "lat": 56.93280313388679,
           "lng": 24.19408110046822
+        },
+        {
+          "lat": 56.932788080216916, 
+          "lng": 24.19397667957276
+        },
+        {
+          "lat": 56.932745836426044,  
+          "lng": 24.19374740021636
+        },
+        {
+          "lat": 56.93265433902504,  
+          "lng": 24.193166222578615
         },
         {
           "lat": 56.93255582998576,
@@ -1167,7 +1274,72 @@
         ],
         "street_name": "Kupravas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.932788080216916, 
+          "lng": 24.19397667957276
+        },
+        {
+          "lat": 56.93286583600482, 
+          "lng": 24.193816991231536
+        },
+        {
+          "lat": 56.932745836426044,  
+          "lng": 24.19374740021636
+        },
+        {
+          "lat": 56.93286583600482, 
+          "lng": 24.193816991231536
+        },
+        {
+          "lat": 56.93338313497497,
+          "lng": 24.19359080465518
+        }
+        ],
+        "street_name": " ",
+        "quality": "good",
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93265433902504,  
+          "lng": 24.193166222578615
+        },
+        {
+          "lat": 56.93327669882109,
+          "lng": 24.192882209137775
+        }
+        ],
+        "street_name": " ",
+        "quality": "good",
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93252188577365,
+          "lng": 24.192386377902427
+        },
+        {
+          "lat": 56.933171514778195,
+          "lng": 24.192178756294744
+        }
+        ],
+        "street_name": " ",
+        "quality": "good",
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -1192,13 +1364,23 @@
           "lng": 24.18399281527457
         },
         {
+          "lat": 56.93238171290967, 
+          "lng": 24.183936105514917
+        },
+        {
+          "lat": 56.932602030385425, 
+          "lng": 24.183745991628083 
+        },
+        {
           "lat": 56.932811344679926,
           "lng": 24.183571688844683
         }
       ],
       "street_name": "Kupravas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1225,7 +1407,9 @@
         ],
         "street_name": "Kameņu iela",
         "quality": "poor",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": false,
+        "obstacles": []
     },
     {
         "path": [
@@ -1248,7 +1432,9 @@
       ],
       "street_name": "Kameņu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1259,18 +1445,20 @@
         {
           "lat": 56.93823776698076,
           "lng": 24.187798191691208
+        },
+        {
+          "lat": 56.93864799946918,
+          "lng": 24.189463804669987
         }
         ],
         "street_name": "Jāņa Klīdzēja iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
         "path": [
-        {
-            "lat": 56.93823776698076,
-            "lng": 24.187798191691208
-        },
         {
           "lat": 56.93864799946918,
           "lng": 24.189463804669987
@@ -1286,7 +1474,9 @@
       ],
       "street_name": "Jāņa Klīdzēja iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1311,7 +1501,7 @@
           "lng": 24.188574460449242
         }
       ],
-      "street_name": "Ļudoņas iela",
+      "street_name": "Ļaudoņas iela",
       "quality": "moderate"
     },
     {
@@ -1325,9 +1515,11 @@
           "lng": 24.18918201790816
         }
       ],
-      "street_name": "Ļudoņas iela",
+      "street_name": "Ļaudoņas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1335,6 +1527,19 @@
           "lat": 56.9343633996024,
           "lng": 24.188723634014487
         },
+        {
+          "lat": 56.93436064783451,
+          "lng": 24.189564342503115
+        }
+      ],
+      "street_name": "Ļaudoņas iela",
+      "quality": "poor",
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
           "lat": 56.93436064783451,
           "lng": 24.189564342503115
@@ -1372,8 +1577,11 @@
           "lng": 24.191737289990865
         }
       ],
-      "street_name": "Ļudoņas iela",
-      "quality": "poor"
+      "street_name": "Ļaudoņas iela",
+      "quality": "poor",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1396,7 +1604,9 @@
         ],
         "street_name": "Apmetņu iela",
         "quality": "moderate",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
       },
       {
         "path": [
@@ -1431,7 +1641,9 @@
       ],
       "street_name": "Apmetņu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1446,7 +1658,9 @@
         ],
         "street_name": "Apmetņu iela",
         "quality": "poor",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": false,
+        "obstacles": []
     },
     {
         "path": [
@@ -1469,7 +1683,9 @@
       ],
       "street_name": "Apmetņu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1484,7 +1700,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1492,6 +1710,19 @@
           "lat": 56.935466181751146,
           "lng": 24.188321090412856
         },
+        {
+          "lat": 56.93480231666333,
+          "lng": 24.188616202160123
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
           "lat": 56.93480231666333,
           "lng": 24.188616202160123
@@ -1515,7 +1746,9 @@
       ],
       "street_name": "Klāņu iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1530,7 +1763,9 @@
       ],
       "street_name": "Klāņu iela",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1553,7 +1788,9 @@
         ],
         "street_name": "Raicenes iela",
         "quality": "moderate",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -1568,7 +1805,9 @@
       ],
       "street_name": "Raicenes iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1591,7 +1830,9 @@
       ],
       "street_name": "Plaužu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1634,7 +1875,9 @@
       ],
       "street_name": "Ūbeles iela",
       "quality": "poor",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1661,7 +1904,9 @@
       ],
       "street_name": "Klāņu iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1686,6 +1931,10 @@
           "lng": 24.19423061006946
         },
         {
+          "lat": 56.93197098969467, 
+          "lng": 24.193663312160584
+        },
+        {
           "lat": 56.93183319554775,
           "lng": 24.192984282918456
         },
@@ -1708,7 +1957,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1787,7 +2038,299 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93166924616261,
+          "lng": 24.18387414640751
+        },
+        {
+          "lat": 56.931727064733785, 
+          "lng": 24.183277139062753
+        },
+        {
+          "lat": 56.93148857090531,
+          "lng": 24.183234655212193
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.931727064733785, 
+          "lng": 24.183277139062753
+        },
+        {
+          "lat": 56.93182633382895, 
+          "lng": 24.182209076776584
+        },
+        {
+          "lat": 56.93185414781095,
+          "lng": 24.18173573528188
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93219690217089, 
+          "lng": 24.181808253634518
+        },
+        {
+          "lat": 56.932166593685444, 
+          "lng": 24.182314725709794
+        },
+        {
+          "lat": 56.93211487648215, 
+          "lng": 24.182823721747138 
+        },
+        {
+          "lat": 56.932057168891795, 
+          "lng": 24.183379851462686 
+        },
+        {
+          "lat": 56.9320785386195, 
+          "lng": 24.183473768175322 
+        },
+        {
+          "lat": 56.932033738473685, 
+          "lng": 24.183989943079713
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.932033738473685, 
+          "lng": 24.183989943079713
+        },
+        {
+          "lat": 56.93182982266356, 
+          "lng": 24.183923963544892 
+        },
+        {
+          "lat": 56.93166924616261,
+          "lng": 24.18387414640751
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.932033738473685, 
+          "lng": 24.183989943079713
+        },
+        {
+          "lat": 56.93229977127738,
+          "lng": 24.18399281527457
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.931727064733785, 
+          "lng": 24.183277139062753
+        },
+        {
+          "lat": 56.93187906377971, 
+          "lng": 24.183325228678672
+        },
+        {
+          "lat": 56.932057168891795, 
+          "lng": 24.183379851462686 
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93182982266356, 
+          "lng": 24.183923963544892 
+        },
+        {
+          "lat": 56.93187906377971, 
+          "lng": 24.183325228678672
+        },
+        {
+          "lat": 56.93197400093747, 
+          "lng": 24.182256030530006
+        },
+        {
+          "lat": 56.93202808040854, 
+          "lng": 24.181947308907514
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.932166593685444, 
+          "lng": 24.182314725709794
+        },
+        {
+          "lat": 56.93197400093747, 
+          "lng": 24.182256030530006
+        },
+        {
+          "lat": 56.93182633382895, 
+          "lng": 24.182209076776584
+        }
+
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93182633382895, 
+          "lng": 24.182209076776584
+        },
+        {
+          "lat": 56.93202808040854, 
+          "lng": 24.181947308907514
+        },
+        {
+          "lat": 56.93213701068904,
+          "lng": 24.181804236811175 
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.932602030385425, 
+          "lng": 24.183745991628083 
+        },
+        {
+          "lat": 56.93266984076053, 
+          "lng": 24.182851291731847 
+        },
+        {
+          "lat": 56.93268941622226, 
+          "lng": 24.182484004459095 
+        },
+        {
+          "lat": 56.93270428138361, 
+          "lng": 24.181979984620547
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93266984076053, 
+          "lng": 24.182851291731847 
+        },
+        {
+          "lat": 56.9324815380637, 
+          "lng": 24.18279347406683 
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93238171290967, 
+          "lng": 24.183936105514917
+        },
+        {
+          "lat": 56.9324815380637, 
+          "lng": 24.18279347406683 
+        },
+        {
+          "lat": 56.93248221460756, 
+          "lng": 24.182737882193145
+        },
+        {
+          "lat": 56.93250947820986, 
+          "lng": 24.18240894991634 
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93268941622226, 
+          "lng": 24.182484004459095 
+        },
+        {
+          "lat": 56.93250947820986, 
+          "lng": 24.18240894991634 
+        },
+        {
+          "lat": 56.932166593685444, 
+          "lng": 24.182314725709794
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1826,7 +2369,9 @@
       ],
       "street_name": "Virānes iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -1863,13 +2408,15 @@
           "lng": 24.18648971939048
         },
         {
-          "lat": 56.94894743149305,
-          "lng": 24.186623270028
+          "lat": 56.94895392765297, 
+          "lng": 24.186563160904353
         }
       ],
       "street_name": "Jenotu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1893,21 +2440,56 @@
           "lat": 56.93249008381843,
           "lng": 24.195132942930805
         },
+        { 
+          "lat": 56.93304214029945, 
+          "lng": 24.19506339813847 
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        { 
+          "lat": 56.93311512671764,
+           "lng": 24.195063132526858 
+        }, 
+        { 
+          "lat": 56.93357504015114, 
+          "lng": 24.195017184795848
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
-          "lat": 56.93249008381843,
-          "lng": 24.195132942930805
+          "lat": 56.93364102830885, 
+          "lng": 24.195007673202323
         },
         {
-          "lat": 56.93308273824965,
-          "lng": 24.195074420273233
-        },
+          "lat": 56.934208000678346, 
+          "lng": 24.194973288543185
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
-          "lat": 56.933608413665496,
-          "lng": 24.195028374530978
-        },
-        {
-          "lat": 56.934228366752,
-          "lng": 24.19497758524771
+          "lat": 56.93428782456785, 
+          "lng": 24.194950900864747
         },
         {
           "lat": 56.93462894921775,
@@ -1918,45 +2500,128 @@
           "lng": 24.194938273343933
         },
         {
-          "lat": 56.93543607060289,
-          "lng": 24.194883333760817
+          "lat": 56.935406070125524, 
+          "lng": 24.194886168451056
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93547526772645, 
+          "lng": 24.194877557562894
         },
         {
-          "lat": 56.93543607060289,
-          "lng": 24.194883333760817
+          "lat": 56.93665507586864, 
+          "lng": 24.194818103420197
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.9367444676349, 
+          "lng": 24.194815659878568
         },
         {
-          "lat": 56.93670135478011,
-          "lng": 24.19480509808585
-        },
+          "lat": 56.93752524642247, 
+          "lng": 24.19478142090077
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
-          "lat": 56.93755479572508,
-          "lng": 24.1947845452427
+          "lat": 56.93759557522659, 
+          "lng": 24.19478252643134
         },
         {
           "lat": 56.938332440511054,
           "lng": 24.194787703784556
         },
         {
-          "lat": 56.93934409446251,
-          "lng": 24.194796114765435
+          "lat": 56.93931173195333, 
+          "lng": 24.194797809510014
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93938939379808, 
+          "lng": 24.194795208133797
         },
         {
           "lat": 56.94026304783471,
           "lng": 24.19483824695954
         },
         {
-          "lat": 56.94142812557195,
-          "lng": 24.194983668579066
+          "lat": 56.94139435582031, 
+          "lng": 24.194975515798202
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.94145890745542, 
+          "lng": 24.194996486417693
         },
         {
-          "lat": 56.942896357430655,
-          "lng": 24.195203480990017
-        },
+          "lat": 56.94281544350789, 
+          "lng": 24.19518163806633
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
           "lat": 56.94297649329256,
           "lng": 24.1952724969415
         },
+        {
+          "lat": 56.94416815649855,
+          "lng": 24.19539287233367
+        }
+      ],
+      "street_name": "Ilūkstes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
         {
           "lat": 56.94424285274797,
           "lng": 24.195433786663045
@@ -1968,7 +2633,38 @@
         ],
         "street_name": "Ilūkstes iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.931898478828984,
+          "lng": 24.195014428765266
+        },
+        {
+          "lat": 56.93184388824894, 
+          "lng": 24.194672574111415
+        },
+        {
+          "lat": 56.93182920023983, 
+          "lng": 24.194391664830125 
+        },
+        {
+          "lat": 56.93173480566537, 
+          "lng": 24.19377615507007 
+        },
+        {
+          "lat": 56.93197098969467, 
+          "lng": 24.193663312160584
+        }
+      ],
+      "street_name": "Lubānas iela",
+      "quality": "moderate",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -1983,7 +2679,9 @@
         ],
         "street_name": "Ilūkstes iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -2023,7 +2721,9 @@
         ],
         "street_name": "Zebiekstes iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -2038,7 +2738,9 @@
         ],
         "street_name": "Ilūkstes iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -2077,13 +2779,19 @@
       ],
       "street_name": "Ilūkstes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.94859711268769,
           "lng": 24.172333129278712
+        },
+        {
+          "lat": 56.948625608063864, 
+          "lng": 24.172260799187534
         },
         {
           "lat": 56.94877524215204,
@@ -2094,25 +2802,27 @@
           "lng": 24.170482566050882
         },
         {
-          "lat": 56.94983426060463, 
-          "lng": 24.165974259659194
-        },
-        {
           "lat": 56.949475194604425, 
           "lng": 24.16790502772873
+        },
+        {
+          "lat": 56.94983426060463, 
+          "lng": 24.165974259659194
         },
         {
           "lat": 56.95017536703097,
           "lng": 24.164104296404773
         },
         {
-          "lat": 56.95026610567291,
-          "lng": 24.163749550704527
+          "lat": 56.95024715825387, 
+          "lng": 24.163728081773918
         }
       ],
       "street_name": "Stopiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2127,7 +2837,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2144,13 +2856,15 @@
           "lng": 24.17284036192671
         },
         {
-          "lat": 56.94860028212679,
-          "lng": 24.172767089061097
+          "lat": 56.94862475657033, 
+          "lng": 24.1727675969178
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2169,13 +2883,15 @@
       ],
       "street_name": "Itas Kozakēvičas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94860028212679,
-          "lng": 24.172767089061097
+          "lat": 56.948600261039424, 
+          "lng": 24.17274517605398
         },
         {
           "lat": 56.94737778349132,
@@ -2186,13 +2902,15 @@
           "lng": 24.17200120921315
         },
         {
-          "lat": 56.94685794422547,
-          "lng": 24.17198105644713
+          "lat": 56.94690281335148, 
+          "lng": 24.17199034512078
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2211,7 +2929,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "poor",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2246,7 +2966,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2305,7 +3027,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2320,7 +3044,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2339,7 +3065,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2362,7 +3090,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2488,7 +3218,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2511,7 +3243,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2526,7 +3260,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2541,7 +3277,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2556,7 +3294,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2571,7 +3311,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2586,7 +3328,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2601,7 +3345,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2616,7 +3362,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2647,7 +3395,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2666,7 +3416,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2689,7 +3441,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2716,7 +3470,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2747,7 +3503,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2762,7 +3520,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2775,13 +3535,15 @@
           "lng": 24.172046624102084
         },
         {
-          "lat": 56.946139350084536,
-          "lng": 24.171991136738185
+          "lat": 56.94612928091848, 
+          "lng": 24.17198924456751
         }
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2800,7 +3562,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2823,7 +3587,17 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": [
+        {
+          "type": "tree",
+          "description": "Koks šauras ietves vidū",
+          "image": "static/",
+          "lat": 56.94728684395124,
+          "lng": 24.16932608395337
+        }
+      ]
     },
     {
       "path": [
@@ -2842,7 +3616,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2859,13 +3635,19 @@
           "lng": 24.173180489893614
         },
         {
+          "lat": 56.950609841637366, 
+          "lng": 24.173308863937304
+        },
+        {
           "lat": 56.95068651535083,
           "lng": 24.173332320397538
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2880,7 +3662,9 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2907,7 +3691,9 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2942,7 +3728,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2965,7 +3753,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -2984,7 +3774,9 @@
       ],
       "street_name": "Zeltiņu iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3003,7 +3795,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3022,7 +3816,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3053,7 +3849,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3072,7 +3870,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3091,7 +3891,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3106,7 +3908,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,     
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3133,7 +3937,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3184,7 +3990,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3199,7 +4007,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3214,7 +4024,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3233,21 +4045,23 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94685794422547,
-          "lng": 24.17198105644713
+          "lat": 56.94686216213793, 
+          "lng": 24.17197669839084
         },
         {
           "lat": 56.94651013765864,
           "lng": 24.17194186826223
         },
         {
-          "lat": 56.946139350084536,
-          "lng": 24.171991136738185
+          "lat": 56.94612928091848, 
+          "lng": 24.17198924456751
         },
         {
           "lat": 56.94598376989859,
@@ -3258,8 +4072,25 @@
           "lng": 24.172120937453407
         },
         {
-          "lat": 56.94535025888755,
-          "lng": 24.17233100521499
+          "lat": 56.945388528209456, 
+          "lng": 24.172298288618776
+        }
+      ],
+      "street_name": "Nīcgales iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.94529175985433, 
+          "lng": 24.172383777891856
+        },
+        {
+          "lat": 56.944708274251944, 
+          "lng": 24.17284318694343
         },
         {
           "lat": 56.94463084021235,
@@ -3268,13 +4099,19 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.944473681358964,
           "lng": 24.17311921487822
+        },
+        {
+          "lat": 56.94441682285441, 
+          "lng": 24.173139571491816
         },
         {
           "lat": 56.94398092991914,
@@ -3285,13 +4122,15 @@
           "lng": 24.174129002196082
         },
         {
-          "lat": 56.942957122374594,
-          "lng": 24.17453201312306
+          "lat": 56.94300553205234, 
+          "lng": 24.1744869470935
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3314,7 +4153,9 @@
       ],
       "street_name": "Rumbulas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3341,32 +4182,40 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.942957122374594,
-          "lng": 24.17453201312306
+          "lat": 56.94290736704961, 
+          "lng": 24.174586736894852
         },
         {
           "lat": 56.94245735324178,
           "lng": 24.175002823562902
         },
         {
-          "lat": 56.94180531296019,
-          "lng": 24.175630343127608
+          "lat": 56.94184568569596, 
+          "lng": 24.17558094523171
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94180531296019,
-          "lng": 24.175630343127608
+          "lat": 56.94177810153158,
+          "lng": 24.175642780437094
+        },
+        {
+          "lat": 56.94086274366423, 
+          "lng": 24.176466231293897
         },
         {
           "lat": 56.94082225117102,
@@ -3375,7 +4224,9 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3384,8 +4235,29 @@
           "lng": 24.172520785571294
         },
         {
+          "lat": 56.94461361129142, 
+          "lng": 24.172491736197426
+        },
+        {
           "lat": 56.945133582882185,
           "lng": 24.17202678899868
+        },
+        {
+          "lat": 56.94524967860756, 
+          "lng": 24.17195078114311
+        }
+      ],
+      "street_name": "Nīcgales iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.94532033386934, 
+          "lng": 24.17190523606202
         },
         {
           "lat": 56.94553358220272,
@@ -3394,6 +4266,10 @@
         {
           "lat": 56.94606148522138,
           "lng": 24.17158644948108
+        },
+        {
+          "lat": 56.9461066968248, 
+          "lng": 24.17158089134779
         },
         {
           "lat": 56.946514279983646,
@@ -3406,22 +4282,26 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94295577328981,
-          "lng": 24.17403441341337
+          "lat": 56.94289561747057, 
+          "lng": 24.174108992009568
         },
         {
-          "lat": 56.94173646891943,
-          "lng": 24.175266460397733
+          "lat": 56.941768825459974, 
+          "lng": 24.17518185318195
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3430,13 +4310,19 @@
           "lng": 24.17263161547892
         },
         {
+          "lat": 56.944312401713226, 
+          "lng": 24.17274774579537
+        },
+        {
           "lat": 56.94295577328981,
           "lng": 24.17403441341337
         }
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3451,7 +4337,9 @@
         ],
         "street_name": "Rumbulas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3466,7 +4354,9 @@
         ],
         "street_name": "Rumbulas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3489,7 +4379,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3504,7 +4396,9 @@
         ],
         "street_name": "Rumbulas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3539,7 +4433,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3558,7 +4454,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -3577,13 +4475,19 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94173646891943,
-          "lng": 24.175266460397733
+          "lat": 56.9417123209591, 
+          "lng": 24.175291317888462
+        },
+        {
+          "lat": 56.9407758036262, 
+          "lng": 24.176183393811865
         },
         {
           "lat": 56.94074700860985,
@@ -3592,7 +4496,9 @@
       ],
       "street_name": "Nīcgales iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3627,7 +4533,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3652,13 +4560,19 @@
           "lng": 24.173019120405787
         },
         {
+          "lat": 56.93958162139465, 
+          "lng": 24.17254198935225
+        },
+        {
           "lat": 56.939569350523776,
           "lng": 24.172464136300764
         }
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3693,21 +4607,49 @@
         ],
         "street_name": "Augusta Deglava iela",
         "quality": "moderate",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+          {
+            "lat": 56.948172552635086,
+            "lng": 24.19245990917104
+          },
+          {
+            "lat": 56.94877039049974,
+            "lng": 24.187942556417887
+          }
+        ],
+        "street_name": "Augusta Deglava iela",
+        "quality": "moderate",
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
+    },
+    {
+      "path": [
+          {
+            "lat": 56.94878840864262, 
+            "lng": 24.187773772886896
+          },
+          {
+            "lat": 56.94894743149305,
+            "lng": 24.186623270028
+          }
+        ],
+        "street_name": "Augusta Deglava iela",
+        "quality": "moderate",
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.948172552635086,
-          "lng": 24.19245990917104
-        },
-        {
-          "lat": 56.94877039049974,
-          "lng": 24.187942556417887
-        },
-        {
-          "lat": 56.94894743149305,
-          "lng": 24.186623270028
+          "lat": 56.94896340342309, 
+          "lng": 24.186497407002022
         },
         {
           "lat": 56.94910558245574,
@@ -3720,7 +4662,9 @@
       ],
       "street_name": "Augusta Deglava iela",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3735,7 +4679,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3778,7 +4724,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3787,16 +4735,55 @@
           "lng": 24.18481317508374
         },
         {
-          "lat": 56.949354419757725,
-          "lng": 24.183590909705547
+          "lat": 56.94934646534016, 
+          "lng": 24.183676467802236
+        }
+      ],
+      "street_name": "Augusta Deglava iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.949366962687975, 
+          "lng": 24.183524784212548
         },
         {
-          "lat": 56.95006098501589,
-          "lng": 24.178244927470207
+          "lat": 56.95005536978948, 
+          "lng": 24.17830909535259
+        }
+      ],
+      "street_name": "Augusta Deglava iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.95007120610232, 
+          "lng": 24.178192070468317
         },
         {
           "lat": 56.950275068445485,
           "lng": 24.1766208933631
+        }
+      ],
+      "street_name": "Augusta Deglava iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.950308657710586, 
+          "lng": 24.176411873898996
         },
         {
           "lat": 56.950395474163464,
@@ -3813,7 +4800,9 @@
       ],
       "street_name": "Augusta Deglava iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3832,7 +4821,9 @@
       ],
       "street_name": "Augusta Deglava iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3851,7 +4842,9 @@
       ],
       "street_name": "Augusta Deglava iela",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3870,7 +4863,9 @@
       ],
       "street_name": "Augusta Deglava iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3889,7 +4884,9 @@
       ],
       "street_name": "Zemiekstes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3910,7 +4907,9 @@
       ],
       "street_name": "Zebiekstes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3937,7 +4936,9 @@
       ],
       "street_name": "Sesku iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -3950,27 +4951,64 @@
           "lng": 24.191796308773515
         },
         {
+          "lat": 56.94592166389308, 
+          "lng": 24.191838503374576
+        },
+        {
+          "lat": 56.94596895747183,
+          "lng": 24.191796308773515
+        }
+      ],
+      "street_name": "Sesku iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        
+        {
           "lat": 56.94596880426303,
           "lng": 24.191587171706217
         },
         {
           "lat": 56.94577320451072,
           "lng": 24.186031670032495
-        },
-        {
-          "lat": 56.94568993442133,
-          "lng": 24.1834319528157
         }
       ],
       "street_name": "Sesku iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.945771066242884, 
+          "lng": 24.185895134995558 
+        },
+        {
+          "lat": 56.94568093360132,
+          "lng": 24.18341557456752
+        }
+      ],
+      "street_name": "Sesku iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.94566789742891,
           "lng": 24.18298468428517
+        },
+        {
+          "lat": 56.945663177305704, 
+          "lng": 24.18295619384535
         },
         {
           "lat": 56.945555281103054,
@@ -4031,13 +5069,19 @@
       ],
       "street_name": "Sesku iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.945835873962736,
           "lng": 24.195552904251816
+        },
+        {
+          "lat": 56.9458238724671, 
+          "lng": 24.191842222467024
         },
         {
           "lat": 56.945812192124464,
@@ -4056,13 +5100,15 @@
           "lng": 24.187261896178015
         },
         {
-          "lat": 56.94550779605213,
-          "lng": 24.183339415241377
+          "lat": 56.94551333621242, 
+          "lng": 24.183355913474212
         }
       ],
       "street_name": "Sesku iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4101,7 +5147,9 @@
       ],
       "street_name": "Sesku iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4128,7 +5176,9 @@
       ],
       "street_name": "Gaismas iela",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4147,7 +5197,9 @@
       ],
       "street_name": "Gaismas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4168,13 +5220,16 @@
           "lng": 24.18210461795711
         },
         {
-          "lat": 56.94368495458309,
-          "lng": 24.182302782871623
+          "lat": 56.94373308009334, 
+          "lng": 24.18230803174792
         }
+        
       ],
       "street_name": "Rumbulas iela",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4193,7 +5248,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4206,13 +5263,19 @@
           "lng": 24.170036224851334
         },
         {
+          "lat": 56.9445559555507, 
+          "lng": 24.169911439304528
+        },
+        {
           "lat": 56.944914848310475,
           "lng": 24.168803300994156
         }
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4227,7 +5290,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -4246,7 +5311,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4269,6 +5336,10 @@
         {
           "lat": 56.9445926311018,
           "lng": 24.17026078825178
+        },
+        {
+          "lat": 56.94465025071073, 
+          "lng": 24.170003859438193
         },
         {
           "lat": 56.94469947322405,
@@ -4297,17 +5368,32 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94568993442133,
-          "lng": 24.1834319528157
+          "lat": 56.94568093360132,
+          "lng": 24.18341557456752
         },
         {
-          "lat": 56.94738078971168,
-          "lng": 24.184313122882592
+          "lat": 56.94734056081892, 
+          "lng": 24.184283723476998
+        }
+      ],
+      "street_name": "Dārzceima iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.94741017322206, 
+          "lng": 24.184320564674785
         },
         {
           "lat": 56.94870958528431,
@@ -4324,7 +5410,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4337,16 +5425,42 @@
           "lng": 24.18304950340321
         },
         {
-          "lat": 56.94735499316713,
-          "lng": 24.183903865514296
+          "lat": 56.94572707940913, 
+          "lng": 24.183064510032654
         },
         {
-          "lat": 56.94735499316713,
-          "lng": 24.183903865514296
+          "lat": 56.947307585153915, 
+          "lng": 24.183891814966994
+        }
+      ],
+      "street_name": "Dārzciema iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.94739922096101, 
+          "lng": 24.183941114420048
         },
         {
-          "lat": 56.94799043431925,
-          "lng": 24.184245071088668
+          "lat": 56.94793294500924, 
+          "lng": 24.184217192228864
+        }
+      ],
+      "street_name": "Dārzciema iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+        "path": [
+        {
+          "lat": 56.94805050051417, 
+          "lng": 24.184276249373532
         },
         {
           "lat": 56.94912082567361,
@@ -4359,22 +5473,30 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94550779605213,
-          "lng": 24.183339415241377
+          "lat": 56.94551333621242, 
+          "lng": 24.183355913474212
         },
         {
-          "lat": 56.94369145404318,
-          "lng": 24.18269649602897
+          "lat": 56.94548473084689, 
+          "lng": 24.18332422311014
+        },
+        {
+          "lat": 56.94377980738823, 
+          "lng": 24.18272788515512
         }
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4383,38 +5505,50 @@
           "lng": 24.182923758973097
         },
         {
-          "lat": 56.94368495458309,
-          "lng": 24.182302782871623
+          "lat": 56.94373308009334, 
+          "lng": 24.18230803174792
         }
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94369145404318,
-          "lng": 24.18269649602897
+        "lat": 56.943648367828295, 
+        "lng": 24.182678770579717
         },
         {
-          "lat": 56.94189574557015,
-          "lng": 24.182047374403997
+        "lat": 56.94203537670341, 
+        "lng": 24.182098223384067
+        },
+        {
+          "lat": 56.94194780975673, 
+          "lng": 24.182077562855078
         }
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94368495458309,
-          "lng": 24.182302782871623
+          "lat": 56.94365042371062, 
+          "lng": 24.182278417144705
         },
         {
           "lat": 56.942777388099714,
           "lng": 24.181993617572815
+        },
+        {
+          "lat": 56.942080090294915, 
+          "lng": 24.181730633971732
         },
         {
           "lat": 56.94199740578099,
@@ -4427,13 +5561,23 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.94189574557015,
-          "lng": 24.182047374403997
+          "lat": 56.94186367364999, 
+          "lng": 24.182085666474173
+        },
+        {
+          "lat": 56.94185706222753, 
+          "lng": 24.18202596503319
+        },
+        {
+          "lat": 56.941771063390654, 
+          "lng": 24.182000250424732
         },
         {
           "lat": 56.941547917930464,
@@ -4456,47 +5600,43 @@
           "lng": 24.182142448729977
         },
         {
-          "lat": 56.9376982145684,
-          "lng": 24.18242345470083
+          "lat": 56.93775991289101, 
+          "lng": 24.18240033620357
         }
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.9376982145684,
-          "lng": 24.18242345470083
+          "lat": 56.93763944565217, 
+          "lng": 24.182419684993963
         },
         {
-          "lat": 56.935100620237236,
-          "lng": 24.182660574642313
+          "lat": 56.937559330981074, 
+          "lng": 24.182419426333812
+        },
+        {
+          "lat": 56.93512141843768, 
+          "lng": 24.182655590775795
         },
         {
           "lat": 56.93506193103697,
           "lng": 24.182723166773535
-        },
-        {
-          "lat": 56.93501187548851,
-          "lng": 24.18272807976143
         }
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
-        {
-          "lat": 56.93501187548851,
-          "lng": 24.18272807976143
-        },
-        {
-          "lat": 56.934965529341774,
-          "lng": 24.182728691523604
-        },
         {
           "lat": 56.934965529341774,
           "lng": 24.182728691523604
@@ -4510,16 +5650,103 @@
           "lng": 24.18261090335057
         },
         {
-          "lat": 56.93414269759195,
-          "lng": 24.182388202221976
+          "lat": 56.93420326108918, 
+          "lng": 24.182404529710860
+        }
+      ],
+      "street_name": "Dārzciema iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+        "lat": 56.93407255426564, 
+        "lng": 24.18237342030633 
         },
         {
-          "lat": 56.93353579349223,
-          "lng": 24.18221853102884
+        "lat": 56.93361150549472, 
+        "lng": 24.182225335922087
         },
         {
-          "lat": 56.932924460063255,
-          "lng": 24.182038169605377
+        "lat": 56.93357854150957, 
+        "lng": 24.182255419635826
+        },
+        {
+        "lat": 56.93356706744636, 
+        "lng": 24.182318257118137
+        }
+      ],
+      "street_name": "Dārzciema iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93349342557531,
+          "lng": 24.18222973751712
+        },
+        {
+          "lat": 56.93346388057044, 
+          "lng": 24.18218125756473 
+        },
+        {
+          "lat": 56.93301058255692, 
+          "lng": 24.182053998730396
+        },
+        {
+          "lat": 56.93299545505436, 
+          "lng": 24.182070367659104
+        },
+        {
+          "lat": 56.93296827268422, 
+          "lng": 24.182133913113947 
+        },
+        {
+          "lat": 56.93293960643505, 
+          "lng": 24.182522796845028
+        }
+      ],
+      "street_name": "Dārzciema iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+        "path": [
+        {
+          "lat": 56.932891309672335, 
+          "lng": 24.182122253726703
+        },
+        {
+          "lat": 56.932891288341764, 
+          "lng": 24.18207846701165
+        },
+        {
+          "lat": 56.93287615190374, 
+          "lng": 24.182020938981324
+        },
+        {
+          "lat": 56.93270428138361, 
+          "lng": 24.181979984620547
+        },
+        {
+          "lat": 56.93236059408395,
+          "lng": 24.181872779897866 
+        },
+        {
+          "lat": 56.93219690217089, 
+          "lng": 24.181808253634518
+        },
+        {
+          "lat": 56.93213701068904,
+          "lng": 24.181804236811175 
         },
         {
           "lat": 56.93185414781095,
@@ -4528,7 +5755,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4543,7 +5772,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4558,7 +5789,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4573,7 +5806,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4588,10 +5823,16 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
+        { 
+        "lat": 56.94184308421333, 
+        "lng": 24.181574608442507 
+        },
         {
           "lat": 56.94186170079205,
           "lng": 24.181277641413175
@@ -4607,7 +5848,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4622,7 +5865,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4637,7 +5882,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4652,7 +5899,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4675,7 +5924,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4706,7 +5957,9 @@
       ],
       "street_name": "Rēzeknes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4729,6 +5982,19 @@
         {
           "lat": 56.93196286226314,
           "lng": 24.1745929391268
+        }
+      ],
+      "street_name": "Rēzeknes iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93194279501132, 
+          "lng": 24.174741921519924
         },
         {
           "lat": 56.93167329595833,
@@ -4761,7 +6027,9 @@
       ],
       "street_name": "Lubānas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4784,7 +6052,9 @@
       ],
       "street_name": "Lubānas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4827,7 +6097,9 @@
       ],
       "street_name": "Lubānas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4842,6 +6114,10 @@
         {
           "lat": 56.939333281844746,
           "lng": 24.171862179995465
+        },
+        {
+          "lat": 56.93931950831324, 
+          "lng": 24.17182042912528
         },
         {
           "lat": 56.93895716885261,
@@ -4886,7 +6162,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4909,7 +6187,9 @@
       ],
       "street_name": "Kaibalas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4934,13 +6214,15 @@
           "lng": 24.168909558713885
         },
         {
-          "lat": 56.94073784705308,
-          "lng": 24.170724545341873
+          "lat": 56.94074563060046, 
+          "lng": 24.1707261651137
         }
       ],
       "street_name": "Kaibalas iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     
     {
@@ -4964,7 +6246,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4979,7 +6263,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -4988,8 +6274,8 @@
           "lng": 24.16515351818177
         },
         {
-          "lat": 56.94520313982728,
-          "lng": 24.164681315349057
+          "lat": 56.94522362528953, 
+          "lng": 24.16466973445815
         },
         {
           "lat": 56.945244582582475,
@@ -5010,7 +6296,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5033,7 +6321,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5052,7 +6342,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5069,17 +6361,19 @@
           "lng": 24.167438805924103
         },
         {
-            "lat": 56.938583658207826,
-            "lng": 24.16625024173109
+          "lat": 56.938583658207826,
+          "lng": 24.16625024173109
         },
         {
-            "lat": 56.938636594807114,
-            "lng": 24.166164082535758
+          "lat": 56.938636594807114,
+          "lng": 24.166164082535758
         }
         ],
         "street_name": "Pildas iela",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
         "path": [
@@ -5106,7 +6400,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": false,
+      "obstacles": []
     },
     {
       "path": [
@@ -5137,7 +6433,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5152,7 +6450,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5183,7 +6483,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5198,7 +6500,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5209,6 +6513,10 @@
         {
           "lat": 56.94511092589916,
           "lng": 24.16444063730661
+        },
+        {
+          "lat": 56.94519754075735, 
+          "lng": 24.16442216804462
         },
         {
           "lat": 56.94527249577581,
@@ -5225,7 +6533,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5252,7 +6562,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5267,7 +6579,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5286,7 +6600,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5305,7 +6621,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5320,7 +6638,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5347,7 +6667,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5362,7 +6684,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5385,7 +6709,9 @@
       ],
       "street_name": "Vietalvas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5400,7 +6726,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5415,7 +6743,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5430,7 +6760,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5439,13 +6771,19 @@
           "lng": 24.163264495481158
         },
         {
+          "lat": 56.950231317448925, 
+          "lng": 24.162945108301958
+        },
+        {
           "lat": 56.950440328354375,
           "lng": 24.162894285727152
         }
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5460,7 +6798,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5475,7 +6815,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5490,7 +6832,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5505,7 +6849,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5588,7 +6934,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5615,7 +6963,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5634,7 +6984,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5653,7 +7005,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5688,7 +7042,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5703,7 +7059,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5718,7 +7076,9 @@
       ],
       "street_name": "Pildas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5749,7 +7109,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5764,7 +7126,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5779,7 +7143,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5794,7 +7160,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5809,7 +7177,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5834,6 +7204,10 @@
           "lng": 24.182053421439853
         },
         {
+          "lat": 56.93754256491095, 
+          "lng": 24.182035481528153
+        },
+        {
           "lat": 56.93746629298757,
           "lng": 24.18203476073357
         },
@@ -5852,7 +7226,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5867,7 +7243,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5902,7 +7280,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5921,7 +7301,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5934,16 +7316,17 @@
           "lng": 24.182233034219855
         },
         {
-          "lat": 56.93229856137914,
-          "lng": 24.181492802114416
-        }
-      ],
-      "street_name": "Dārzciema iela",
-      "quality": "good",
-      "sidewalk": true
-    },
-    {
-      "path": [
+          "lat": 56.93488888944014,
+          "lng": 24.182233034219855
+        },
+        {
+          "lat": 56.93239339789401, 
+          "lng": 24.181524877006858
+        },
+        { 
+          "lat": 56.93224074636972, 
+          "lng":  24.18146342589783 
+        },
         {
           "lat": 56.932206514047564,
           "lng": 24.181477257408115
@@ -5975,7 +7358,9 @@
       ],
       "street_name": "Dārzciema iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -5992,6 +7377,10 @@
           "lng": 24.172304684902223
         },
         {
+          "lat": 56.93960604791301, 
+          "lng": 24.172282962547197
+        },
+        {
           "lat": 56.94006930171517,
           "lng": 24.17186660270768
         },
@@ -6002,7 +7391,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6021,7 +7412,9 @@
       ],
       "street_name": "Franča Trasuna iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6052,7 +7445,9 @@
         ],
         "street_name": "Franča Trasuna iela",
         "quality": "moderate",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6141,7 +7536,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6156,7 +7553,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6175,7 +7574,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": true
+        "sidewalk": true,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6190,7 +7591,9 @@
         ],
         "street_name": " ",
         "quality": "moderate",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6205,7 +7608,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6224,7 +7629,9 @@
         ],
         "street_name": " ",
         "quality": "moderate",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6271,7 +7678,9 @@
         ],
         "street_name": " ",
         "quality": "good",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6318,7 +7727,9 @@
         ],
         "street_name": " ",
         "quality": "poor",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6341,7 +7752,9 @@
         ],
         "street_name": " ",
         "quality": "poor",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": true,
+        "obstacles": []
     },
     {
       "path": [
@@ -6360,7 +7773,9 @@
         ],
         "street_name": "Jaunrozes iela",
         "quality": "poor",
-        "sidewalk": false
+        "sidewalk": false,
+        "paved": false,
+        "obstacles": []
     },
     {
       "path": [
@@ -6391,7 +7806,9 @@
       ],
       "street_name": "Franča Trasuna iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -6407,7 +7824,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -6423,7 +7842,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6436,13 +7857,19 @@
           "lng": 24.176890779768
         },
         {
+          "lat": 56.93483779489974, 
+          "lng": 24.176838972751654
+        },
+        {
           "lat": 56.935822479444056,
           "lng": 24.175923916434353
         }
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6457,7 +7884,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6472,7 +7901,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6481,19 +7912,29 @@
           "lng": 24.174385328053067
         },
         {
+          "lat": 56.93752783733702, 
+          "lng": 24.174320024008086
+        },
+        {
           "lat": 56.93845248281662,
           "lng": 24.173451529970066
         }
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.93858266154691,
           "lng": 24.173335272059003
+        },
+        {
+          "lat": 56.939293780895, 
+          "lng": 24.172671387826217
         },
         {
           "lat": 56.939324154195575,
@@ -6514,7 +7955,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6561,7 +8004,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6610,9 +8055,11 @@
           "lng": 24.164204329209166
         }
       ],
-      "street_name": "Piedrujas iela",
+      "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6657,6 +8104,10 @@
           "lng": 24.179576502528004
         },
         {
+          "lat": 56.93197308210279, 
+          "lng": 24.179890753547276
+        },
+        {
           "lat": 56.931785681648,
           "lng": 24.180049427902954
         },
@@ -6671,7 +8122,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6690,6 +8143,10 @@
         {
           "lat": 56.93172693558628,
           "lng": 24.179180745217646
+        },
+        {
+          "lat": 56.931782021991964, 
+          "lng": 24.179136574937537
         },
         {
           "lat": 56.9319564875277,
@@ -6718,7 +8175,58 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93197308210279, 
+          "lng": 24.179890753547276
+        },
+        {
+          "lat": 56.932038022302116, 
+          "lng": 24.18038495695543
+        },
+        {
+          "lat": 56.93227169541294, 
+          "lng": 24.180323344744
+        },
+        {
+          "lat": 56.932294175693876, 
+          "lng": 24.180743509633327
+        },
+        {
+          "lat": 56.93224824048598,  
+          "lng": 24.181008255424274
+        },
+        {
+          "lat": 56.93208406778475, 
+          "lng": 24.180860696528743 
+        },
+        {
+          "lat": 56.932038022302116, 
+          "lng": 24.18038495695543
+        },
+        {
+          "lat": 56.93208406778475, 
+          "lng": 24.180860696528743 
+        },
+        {
+          "lat": 56.93224824048598,  
+          "lng": 24.181008255424274
+        },
+        {
+          "lat": 56.93224074636972,
+          "lng": 24.18146342589783
+        }
+      ],
+      "street_name": " ",
+      "quality": "moderate",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6733,7 +8241,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6748,7 +8258,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6757,8 +8269,8 @@
           "lng": 24.177341321381544
         },
         {
-          "lat": 56.9344405914992,
-          "lng": 24.17662851493526
+          "lat": 56.93446446784465, 
+          "lng": 24.17661269105391
         },
         {
           "lat": 56.934567375290385,
@@ -6767,13 +8279,19 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
           "lat": 56.934686571970346,
           "lng": 24.176407250199148
+        },
+        {
+          "lat": 56.93470802049225, 
+          "lng": 24.176404279213823
         },
         {
           "lat": 56.93502095765681,
@@ -6790,7 +8308,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6803,6 +8323,10 @@
           "lng": 24.17519793722112
         },
         {
+          "lat": 56.93741142197047, 
+          "lng": 24.173925550537387
+        },
+        {
           "lat": 56.937878071466244,
           "lng": 24.173472185266096
         },
@@ -6811,8 +8335,25 @@
           "lng": 24.173372653831336
         },
         {
-          "lat": 56.93832854142302,
-          "lng": 24.172988550100417
+          "lat": 56.938322280066, 
+          "lng": 24.172996155208576
+        }
+      ],
+      "street_name": "Piedrujas iela",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93844157346677, 
+          "lng": 24.17288975801057
+        },
+        {
+          "lat": 56.93916845653922, 
+          "lng": 24.172200717465792
         },
         {
           "lat": 56.93921968636884,
@@ -6821,13 +8362,55 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93838569601832, 
+          "lng": 24.172940908780497
+        },
+        {
+          "lat": 56.938077753630175,
+          "lng": 24.172047822113136
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93794873557437, 
+          "lng": 24.167766332308293
+        },
+        {
+          "lat": 56.937804876273084, 
+          "lng": 24.167936884648395
+        },
+        {
+          "lat": 56.93705709255887, 
+          "lng": 24.165477040738686
+        }
+      ],
+      "street_name": "Tilts pāri sliedēm",
+      "quality": "poor",
+      "sidewalk": false
     },
     {
       "path": [
         {
           "lat": 56.93942616919411,
           "lng": 24.17194048140283
+        },
+        {
+          "lat": 56.93949559012376, 
+          "lng": 24.171901840576076
         },
         {
           "lat": 56.94007489304382,
@@ -6844,34 +8427,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
-    },
-    {
-      "path": [
-        {
-          "lat": 56.93942816511183,
-          "lng": 24.171938861952658
-        },
-        {
-          "lat": 56.94043337758384,
-          "lng": 24.171079179621334
-        },
-        {
-          "lat": 56.940686158258366,
-          "lng": 24.170811383510678
-        },
-        {
-          "lat": 56.94073784705308,
-          "lng": 24.170724545341873
-        },
-        {
-          "lat": 56.94078887168289,
-          "lng": 24.170674438430026
-        }
-      ],
-      "street_name": "Piedrujas iela",
-      "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6902,7 +8460,9 @@
       ],
       "street_name": "Piedrujas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6915,19 +8475,21 @@
           "lng": 24.16362303924371
         },
         {
-          "lat": 56.95026610567291,
-          "lng": 24.163749550704527
+          "lat": 56.95024715825387, 
+          "lng": 24.163728081773918
         }
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
         {
-          "lat": 56.95026610567291,
-          "lng": 24.163749550704527
+          "lat": 56.95024715825387, 
+          "lng": 24.163728081773918
         },
         {
           "lat": 56.95033551115677,
@@ -6964,7 +8526,9 @@
       ],
       "street_name": "Vestienas iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -6983,7 +8547,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7058,7 +8624,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7082,7 +8650,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7097,7 +8667,9 @@
       ],
       "street_name": " ",
       "quality": "moderate",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -7113,7 +8685,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -7160,7 +8734,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7183,7 +8759,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -7199,7 +8777,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -7224,7 +8804,9 @@
       ],
       "street_name": "Slāvu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
 
     },
     {
@@ -7249,7 +8831,9 @@
       ],
       "street_name": "Slāvu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7276,7 +8860,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7299,7 +8885,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "moderate",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7314,7 +8902,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7349,7 +8939,9 @@
       ],
       "street_name": "Zundānu iela ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7380,7 +8972,9 @@
       ],
       "street_name": "Zundānu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7407,7 +9001,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7434,7 +9030,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7469,7 +9067,9 @@
       ],
       "street_name": "Līvānu iela ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7484,7 +9084,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7499,7 +9101,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7542,7 +9146,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7565,7 +9171,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7580,7 +9188,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7603,7 +9213,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7622,7 +9234,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7637,7 +9251,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7660,7 +9276,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7679,7 +9297,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7694,7 +9314,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7738,7 +9360,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7757,7 +9381,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7788,7 +9414,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7807,7 +9435,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7846,7 +9476,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7861,7 +9493,9 @@
       ],
       "street_name": " ",
       "quality": "poor",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7888,7 +9522,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7907,7 +9543,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7930,7 +9568,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7945,7 +9585,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7964,7 +9606,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7979,7 +9623,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -7994,7 +9640,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8009,7 +9657,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8032,7 +9682,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8047,7 +9699,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8062,7 +9716,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8077,7 +9733,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8108,7 +9766,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8123,7 +9783,9 @@
       ],
       "street_name": " ",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8150,7 +9812,9 @@
       ],
       "street_name": "Jaunrozes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8165,7 +9829,9 @@
       ],
       "street_name": "Jaunrozes iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8188,7 +9854,9 @@
       ],
       "street_name": "Jaunrozes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8223,7 +9891,9 @@
       ],
       "street_name": "Jaunrozes iela",
       "quality": "good",
-      "sidewalk": false
+      "sidewalk": false,
+      "paved": true,
+      "obstacles": []
     },
     {
       "path": [
@@ -8274,7 +9944,90 @@
       ],
       "street_name": "Jaunrozes iela",
       "quality": "good",
-      "sidewalk": true
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+          "lat": 56.93195013473046, 
+          "lng": 24.17976106060087
+        },
+        {
+          "lat": 56.93182036721162,
+          "lng": 24.179299602388582
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+        "lat": 56.93141834212458, 
+        "lng": 24.178248387369123
+        },
+        {
+        "lat": 56.931177712414986, 
+        "lng": 24.178160501088225
+        }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "path": [
+        {
+        "lat":56.94551325714471, 
+        "lng": 24.165744320184075
+        },
+        {
+        "lat": 56.94549492450416, 
+        "lng": 24.16546134060411
+        },
+        {
+          "lat": 56.94536411033354, 
+          "lng":24.16504624717269
+          },
+          {
+          "lat": 56.94536411033354, 
+          "lng":24.16504624717269
+          },
+          {
+            "lat": 56.945332872666604,
+            "lng": 24.16500609500297
+          }
+      ],
+      "street_name": " ",
+      "quality": "good",
+      "sidewalk": true,
+      "paved": true,
+      "obstacles": []
+    },
+    {
+      "street_name": "Example Street",
+      "path": [
+        { "lat": 56.942, "lng": 24.178 },
+        { "lat": 56.943, "lng": 24.179 }
+      ],
+      "quality": "good",
+      "sidewalk": true,
+      "obstacles": [
+        {
+          "type": "tree",
+          "description": "Tree in the middle of a narrow sidewalk",
+          "image": "tree_example.jpg",
+          "lat": 56.9425,
+          "lng": 24.1785
+        }
+      ]
     }
-
+    
   ]

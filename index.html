@@ -3,47 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karte cilvekiem ar invaliditati</title>
-    <link rel="stylesheet" href="style.css">
-
-    <!-- Ikona -->
-    <!-- <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> -->
+    <title>Karte cilvēkiem ar invaliditāti</title>
+    <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
-    <h1>Kulturas iestazu un pasakumu pieejamiba cilvekiem ar invaliditati</h1>
+    <header>
+        <h1>Kultūras iestāžu un pasākumu pieejamība cilvēkiem ar invaliditāti</h1>
+    </header>
 
-    <div id="map"></div>
+    <main style="text-align: center;">
+        <div id="filter" style="margin-bottom: 20px;">
+            <div>
+                <label for="road-quality-filter">Ceļu kvalitāte:</label>
+                <select id="road-quality-filter">
+                    <option value="all">Rādīt visu</option>
+                    <option value="poor">Slikta</option>
+                    <option value="moderate">Vidēja</option>
+                    <option value="good">Laba</option>
+                </select>
+            </div>
 
+            <div>
+                <label for="paved-filter">Ceļa segums:</label>
+                <select id="paved-filter">
+                    <option value="all">Rādīt visu</option>
+                    <option value="true">Asfaltēta</option>
+                    <option value="false">Neasfaltēta</option>
+                </select>
+            </div>
+            
+            <div>
+                <label for="sidewalk-filter">Ietves:</label>
+                <select id="sidewalk-filter">
+                    <option value="all">Rādīt visu</option>
+                    <option value="yes">Ar</option>
+                    <option value="no">Bez</option>
+                </select>
+            </div>
+            <!-- New zebra crossing filter added -->
+            <div>
+                <label for="crossing-filter">Gājēju pārejas:</label>
+                <select id="crossing-filter">
+                    <option value="all">Rādīt visu</option>
+                    <option value="yes">Rādīt gājēju pārejas</option>
+                    <option value="no">Paslēpt gājēju pārejas</option>
+                </select>
+            </div>
+
+            <div>
+                <label for="obstacle-filter">Šķēršļi:</label>
+                <select id="obstacle-filter">
+                    <option value="all">Rādīt visu</option>
+                    <option value="yes">Ar</option>
+                    <option value="no">Bez</option>
+                </select>
+            </div>
+        </div>
+        <div id="map"></div>
+    </main>
+
+    <footer>
+    </footer>
+    
+    <!-- Scripts -->
     <script src="script.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE&map_ids=bc02ef078ae8cd67&callback=initMap"></script>
-    <style>
-        .info-window {
-            font-family: Arial, sans-serif;
-            font-size: 14px;
-            line-height: 1.5;
-            padding: 10px;
-            max-width: 200px; /* Ierobežo info window platumu */
-        }
-        .info-window strong {
-            color: #333;
-            font-size: 16px;
-            display: block;
-            margin-bottom: 5px;
-        }
-        .info-window .availability {
-            margin-top: 10px;
-            font-weight: bold;
-        }
-        .info-window .details {
-            margin-top: 5px;
-            list-style-type: none;
-            padding: 0;
-        }
-        .info-window .details li {
-            margin: 2px 0;
-        }
-      </style>
-      
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE&map_ids=bc02ef078ae8cd67&callback=initMap" async defer></script>
 </body>
 </html>
-<!-- api key: AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE -->
+

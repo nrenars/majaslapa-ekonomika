@@ -3,21 +3,116 @@ html {
     font-size: 100%;
     background: wheat;
 }
-*, *::before, *::after{
+
+*, *::before, *::after {
     box-sizing: inherit;
 }
-
+header {
+    margin: 0; /* Remove margin from header */
+    padding-top: 20px; /* Adds space above the header */
+    background-color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
 body {
     margin: 0;
     padding: 0;
 }
 
 #map {
-    margin-top: 10px;
-    height: 75vh;
+    margin-top: 5%;
+    height: 90vh;
+    width: 70%;
+    margin: 5% auto; /* Center with smaller top margin */
+    border: 1px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
 h1 {
-    margin-top: 40px;
+    margin-top: 20px;
     text-align: center;
+    font-size: 2rem; /* Adjust font size for headings */
+}
+
+#filter {
+    position: absolute;
+    top: 17vh; /* Position filter relative to the viewport height */
+    right: 300px;
+    z-index: 5;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.info-window {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 10px;
+    max-width: 200px;
+}
+
+.info-window strong {
+    color: #333;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.info-window .availability {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.info-window .details {
+    margin-top: 5px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.info-window .details li {
+    margin: 2px 0;
+}
+
+/* Styles for tablets and small screens */
+@media (max-width: 768px) {
+    #map {
+        width: 90%; /* Slightly smaller width */
+        height: 400px; /* Adjust height */
+    }
+
+    h1 {
+        font-size: 1.5rem; /* Smaller font for headings */
+    }
+
+    #filter {
+        position: static; /* Place below the map */
+        margin: 10px auto;
+        width: 90%; /* Center filter menu */
+    }
+}
+
+/* Styles for very small screens (e.g., phones) */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    #filter {
+        flex-direction: column; /* Stack dropdowns vertically */
+        gap: 1rem;
+        padding: 15px; /* Add padding for easier tap */
+    }
+
+    #map {
+        width: 100%; /* Full width */
+        height: 300px; /* Reduced height */
+    }
 }
 
