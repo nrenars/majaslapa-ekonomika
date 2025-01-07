@@ -23,9 +23,10 @@ body {
     margin-top: 5%;
     height: 90vh;
     width: 70%;
-    margin: 5% auto; /* Center with smaller top margin */
+    margin: 15% auto; /* Center with smaller top margin */
     border: 1px solid white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-grow: 1;
 }
 
 h1 {
@@ -47,6 +48,8 @@ h1 {
     flex-wrap: wrap;
     gap: 1rem;
     justify-content: center;
+    width: 250px;
+    overflow-y: auto;
 }
 
 .info-window {
@@ -115,4 +118,28 @@ h1 {
         height: 300px; /* Reduced height */
     }
 }
+@media (max-width: 768px) {
+    /* Scale down the entire control container */
+    .gm-bundled-control {
+        transform: scale(0.8); /* Uniformly scale down */
+        transform-origin: top left; /* Anchor scaling to the top-left corner */
+        padding: 0; /* Remove excess padding */
+    }
 
+    /* Ensure individual buttons have proper dimensions */
+    .gm-style button,
+    .gmnoprint,
+    .gm-fullscreen-control {
+        width: auto; /* Allow width to adapt to content */
+        height: auto; /* Ensure proper height */
+        padding: 5px 8px; /* Adjust padding for smaller size */
+        font-size: 12px; /* Reduce text size */
+        line-height: 1.4; /* Improve text readability */
+    }
+
+    /* Adjust the active button styles */
+    .gm-control-active {
+        padding: 4px 6px;
+        font-size: 12px;
+    }
+}

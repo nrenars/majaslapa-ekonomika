@@ -1837,7 +1837,96 @@
     "zebra": false,
     "ramp": true,
     "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94286735867499,
+                "lng": 24.17323054567271
+            },
+            {
+                "lat": 56.942877461957394,
+                "lng": 24.173346426030104
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.938269077078, 
+                "lng": 24.168483430103656
+            },
+            {
+                "lat": 56.938264874373544,
+                "lng": 24.16841437006879
+            },
+            {
+                "lat": 56.93825427863992, 
+                "lng": 24.16833685277315
+            }
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.938440790362066,
+                "lng": 24.167443560311135
+            },
+            {
+                "lat": 56.938465119904656, 
+                "lng": 24.16734059146555
+            },
+            {
+                "lat": 56.9384294405004, 
+                "lng": 24.16751314901803
+            }
+        ],
+    "street_name": "Kaibalas iela",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94816084596457,
+                "lng": 24.19258562520304
+            },
+            {
+                "lat": 56.948172552635086,
+                "lng": 24.19245990917104
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94855854914083, 
+                "lng": 24.172302393217333
+            },
+            {
+                "lat": 56.94851315125832, 
+                "lng": 24.17266535563129
+            }
+        ],
+    "street_name": "Nīcgales iela",
+    "zebra": true,
+    "ramp": true,
+    "traffic_light": false 
     }
+    
 
 
 ]
