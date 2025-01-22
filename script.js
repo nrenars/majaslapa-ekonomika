@@ -3,6 +3,10 @@ let polylines = []; // Store all polylines for easy filtering
 let streetData; // Store street data for reuse
 let crossingData; // Store zebra crossing data for reuse
 let obstacleMarkers = []; // Store obstacle markers for easy toggling
+let userLocation; // User's current location or manually selected location
+let destinationMarker = null; // Marker for destination
+let userLocationMarker = null; // Marker for user location
+let destination = null; // Global variable to store the destination
 
 function initMap() {
     map = new google.maps.Map(document.getElementById("map"), {
@@ -18,17 +22,47 @@ function initMap() {
         mapTypeId: "hybrid"
     });
 
-    // Fetch street data and zebra crossing data
-    Promise.all([
-        fetch("data/streets.json").then((response) => response.json()),
-        fetch("data/crossings.json").then((response) => response.json())
-    ])
-    .then(([streetResponse, crossingResponse]) => {
-        streetData = streetResponse; // Save for filtering
-        crossingData = crossingResponse; // Save for filtering
+    function addMarkers(data) {
+        data.forEach((institution) => {
+            const marker = new google.maps.Marker({
+                position: institution.position,
+                map: map,
+                title: institution.title,
+                icon: {
+                    url: institution.icon || "https://maps.google.com/mapfiles/ms/icons/purple-dot.png",
+                },
+            });
+    
+            const infoWindow = new google.maps.InfoWindow({
+                content: institution.infoContent,
+            });
+    
+            marker.addListener("click", () => {
+                infoWindow.open(map, marker);
+            });
+        });
+    }
+
+    // Fetch street data, zebra crossing data, and institution data
+Promise.all([
+    fetch("data/streets.json").then((response) => response.json()),
+    fetch("data/crossings.json").then((response) => response.json()),
+    fetch("data/institutions.json").then((response) => response.json())
+])
+    .then(([streetResponse, crossingResponse, institutionResponse]) => {
+        // Save data for filtering
+        streetData = streetResponse;
+        crossingData = crossingResponse;
+
+        // Add markers for institutions
+        addMarkers(institutionResponse);
+
+        // Draw polylines
         drawPolylines(streetData, crossingData);
     })
-    .catch((error) => console.error("Error loading JSON data:", error));
+    .catch((error) => {
+        console.error("Error loading JSON data:", error);
+    });
 
     // Add event listeners for filters
     document.getElementById("road-quality-filter").addEventListener("change", applyFilters);
@@ -85,7 +119,6 @@ function applyFilters() {
     // Pass the filtered data to the drawing function
     drawPolylines(filteredStreetData, filteredCrossingData);
 }
-
 // Adjusted JavaScript Code to Reflect Surface Change
 
 function drawPolylines(streetData, crossingData) {
@@ -216,4 +249,176 @@ function drawPolylines(streetData, crossingData) {
             });
         });
     });
+    function addCustomMarker(position, title, infoContent) {
+        const marker = new google.maps.Marker({
+            position: position,
+            map: map,
+            title: title,
+            icon: {
+                url: "https://maps.google.com/mapfiles/ms/icons/purple-dot.png",
+            },
+        });
+    
+        const infoWindow = new google.maps.InfoWindow({
+            content: infoContent,
+        });
+    
+        marker.addListener("click", () => {
+            infoWindow.open(map, marker);
+        });
+    }
+// Function to get user's location via GPS
+// function getUserLocation() {
+//     if (navigator.geolocation) {
+//         navigator.geolocation.getCurrentPosition(
+//             (position) => {
+//                 userLocation = {
+//                     lat: position.coords.latitude,
+//                     lng: position.coords.longitude,
+//                 };
+//                 console.log("User's location:", userLocation);
+
+//                 // Add or update the user location marker
+//                 if (userLocationMarker) {
+//                     userLocationMarker.setPosition(userLocation);
+//                 } else {
+//                     userLocationMarker = new google.maps.Marker({
+//                         position: userLocation,
+//                         map: map,
+//                         title: "Your Location",
+//                         icon: {
+//                             path: google.maps.SymbolPath.CIRCLE,
+//                             scale: 8,
+//                             fillColor: "#4285F4",
+//                             fillOpacity: 1,
+//                             strokeColor: "white",
+//                             strokeWeight: 2,
+//                         },
+//                     });
+//                 }
+
+//                 // Center the map on the user's location
+//                 map.setCenter(userLocation);
+//             },
+//             (error) => {
+//                 console.error("Error fetching location:", error);
+//                 alert("Unable to fetch GPS location. Please set your starting location manually.");
+//             }
+//         );
+//     } else {
+//         alert("Geolocation is not supported by this browser.");
+//     }
+// }
+
+// // Attach the function to the global window object
+// window.setStartingLocation = function () {
+//     map.addListener("click", (event) => {
+//         userLocation = {
+//             lat: event.latLng.lat(),
+//             lng: event.latLng.lng(),
+//         };
+//         console.log("Starting location set to:", userLocation);
+
+//         // Add or update the user location marker
+//         if (userLocationMarker) {
+//             userLocationMarker.setPosition(userLocation);
+//         } else {
+//             userLocationMarker = new google.maps.Marker({
+//                 position: userLocation,
+//                 map: map,
+//                 title: "Starting Location",
+//                 icon: {
+//                     path: google.maps.SymbolPath.CIRCLE,
+//                     scale: 8,
+//                     fillColor: "#4285F4",
+//                     fillOpacity: 1,
+//                     strokeColor: "white",
+//                     strokeWeight: 2,
+//                 },
+//             });
+//         }
+
+//         // Remove the click listener after setting the location
+//         google.maps.event.clearListeners(map, "click");
+//     });
+// };
+// // Function to set the destination
+// window.setDestination = function () {
+//     map.addListener("click", (event) => {
+//         destination = {
+//             lat: event.latLng.lat(),
+//             lng: event.latLng.lng(),
+//         };
+//         console.log("Destination set to:", destination);
+
+//         // If a destination marker already exists, update its position
+//         if (destinationMarker) {
+//             destinationMarker.setPosition(destination);
+//         } else {
+//             // Otherwise, create a new destination marker
+//             destinationMarker = new google.maps.Marker({
+//                 position: destination,
+//                 map: map,
+//                 title: "Destination",
+//                 icon: {
+//                     path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
+//                     scale: 8,
+//                     fillColor: "#FF0000",
+//                     fillOpacity: 1,
+//                     strokeColor: "white",
+//                     strokeWeight: 2,
+//                 },
+//             });
+//         }
+//     });
+// };
+// // Function to calculate and display the route
+// function calculateSafeRoute() {
+//     if (!userLocation) {
+//         alert("Please set your starting location.");
+//         return;
+//     }
+
+//     if (!destination) {
+//         alert("Please set your destination.");
+//         return;
+//     }
+
+//     console.log("Calculating route from", userLocation, "to", destination);
+
+//     // Use Google Directions API or your custom logic to calculate the route
+//     const directionsService = new google.maps.DirectionsService();
+//     const directionsRenderer = new google.maps.DirectionsRenderer({
+//         map: map,
+//     });
+
+//     directionsService.route(
+//         {
+//             origin: userLocation,
+//             destination: destination,
+//             travelMode: google.maps.TravelMode.WALKING,
+//         },
+//         (result, status) => {
+//             if (status === google.maps.DirectionsStatus.OK) {
+//                 directionsRenderer.setDirections(result);
+//                 console.log("Route:", result);
+//             } else {
+//                 console.error("Error fetching directions:", status);
+//             }
+//         }
+//     );
+// }
+// // Function to clear the destination marker
+// window.clearDestination = function () {
+//     if (destinationMarker) {
+//         destinationMarker.setMap(null); // Remove the marker from the map
+//         destinationMarker = null; // Clear the reference
+//     }
+//     destination = null; // Clear the destination variable
+//     console.log("Destination cleared");
+// };
+// window.getUserLocation = getUserLocation;
+// window.setDestination = setDestination;
+// window.calculateSafeRoute = calculateSafeRoute;
+
 }

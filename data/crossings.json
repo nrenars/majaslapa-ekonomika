@@ -1925,6 +1925,186 @@
     "zebra": true,
     "ramp": true,
     "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.934874981512586,
+                "lng": 24.17872206718414
+            },
+            {
+                "lat": 56.93487938580537, 
+                "lng": 24.17878901895951
+            },
+            {
+                "lat": 56.93488090483428,
+                "lng": 24.17886066335301
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.934941390072105,
+                "lng": 24.179762706709496
+            },
+            {
+                "lat": 56.934950258279,
+                "lng": 24.179943457877872
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.934583568804314,
+                "lng": 24.17574482152021
+            },
+            {
+                "lat": 56.9344983386606,
+                "lng": 24.175580802605747
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93423561413586,
+                "lng": 24.174770218231327
+            },
+            {
+                "lat": 56.934156776808564,
+                "lng": 24.17450134491094
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93623782584838,
+                "lng": 24.18213258619228
+            },
+            {
+                "lat": 56.936336129777125,
+                "lng": 24.182121866640234
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.936737337699775,
+                "lng": 24.182084931064917
+            },
+            {
+                "lat": 56.936838791150315,
+                "lng": 24.18207464367673
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93847161075258,
+                "lng": 24.181916139020796
+            },
+            {
+                "lat": 56.938607610994964,
+                "lng": 24.181892539447322
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.938973617928475,
+                "lng": 24.181842737852538
+            },
+            {
+                "lat": 56.939122258460905,
+                "lng": 24.18181930095777
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.93952499955733,
+                "lng": 24.181766719269916
+            },
+            {
+                "lat": 56.93971361793916,
+                "lng": 24.181795174848823
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.94028404033137,
+                "lng": 24.18175017573208
+            },
+            {
+                "lat": 56.94034821947783,
+                "lng": 24.181742734120167
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
+    },
+    {
+        "path": [
+            {
+                "lat": 56.941139599770416,
+                "lng": 24.181643723162004
+            },
+            {
+                "lat": 56.941291967845046,
+                "lng": 24.181618526389094
+            }
+        ],
+    "street_name": " ",
+    "zebra": false,
+    "ramp": true,
+    "traffic_light": false 
     }
     
 
