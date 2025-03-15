@@ -1,85 +1,190 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Labākais Ceļš Uz Valsts Iestādēm</title>
-    <link rel="stylesheet" href="static/style.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5437723577069634"
-     crossorigin="anonymous"></script>
-</head>
-<body>
-    <header>
-        <h1>Valsts iestāžu pieejamība cilvēkiem ar invaliditāti</h1>
-    </header>
-
-    <main style="text-align: center;">
-        <div id="filter" style="margin-bottom: 20px;">
-            <div>
-                <label for="road-quality-filter">Ceļu kvalitāte:</label>
-                <select id="road-quality-filter">
-                    <option value="all">Rādīt visu</option>
-                    <option value="poor">Slikta</option>
-                    <option value="moderate">Vidēja</option>
-                    <option value="good">Laba</option>
-                </select>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Labākais Ceļš</title>
+        <link rel="icon" type="image/x-icon" href="static/img/images.png" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="static/css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="/">Labākais Ceļš</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#par-mums">Par mums</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li> -->
+                    </ul>
+                </div>
             </div>
-
-            <div>
-                <label for="paved-filter">Ceļa segums:</label>
-                <select id="paved-filter">
-                    <option value="all">Rādīt visu</option>
-                    <option value="true">Asfaltēta</option>
-                    <option value="false">Neasfaltēta</option>
-                </select>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                <div class="d-flex justify-content-center">
+                    <div class="text-center">
+                        <h1 class="mx-auto my-0 text-uppercase">Labākais Ceļš</h1>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">Interaktīva karte, kura sniedz iespēju cilvēkiem ar kustību traucējumiem atrast pieejamus un drošus maršrutus Rīgas apkaimē. </h2>
+                        <a class="btn btn-primary" href="#map">Parādīt karti</a>
+                    </div>
+                </div>
             </div>
-            
-            <div>
-                <label for="sidewalk-filter">Ietves:</label>
-                <select id="sidewalk-filter">
-                    <option value="all">Rādīt visu</option>
-                    <option value="yes">Ar</option>
-                    <option value="no">Bez</option>
-                </select>
-            </div>
-            <!-- New zebra crossing filter added -->
-            <div>
-                <label for="crossing-filter">Gājēju pārejas:</label>
-                <select id="crossing-filter">
-                    <option value="all">Rādīt visu</option>
-                    <option value="yes">Rādīt gājēju pārejas</option>
-                    <option value="no">Paslēpt gājēju pārejas</option>
-                </select>
-            </div>
-
-            <div>
-                <label for="obstacle-filter">Šķēršļi:</label>
-                <select id="obstacle-filter">
-                    <option value="all">Rādīt visu</option>
-                    <option value="yes">Ar</option>
-                    <option value="no">Bez</option>
-                </select>
-            </div>
-        </div>
-        <!-- <div id="route-controls" style="position: absolute; top: 10px; left: 10px; z-index: 5;">
-            <button onclick="getUserLocation()">Get My Location</button>
-            <button onclick="setStartingLocation()">Set Starting Location</button>
-            <button onclick="setDestination()">Set Destination</button>
-            <button onclick="clearDestination()">Clear Destination</button>
-            <button onclick="calculateSafeRoute()">Find Safe Route</button>
-        </div> -->
-        <div id="map"></div>
-    </main>
-
-    <footer>
-    </footer>
+        </header>
+        <!-- Map-->
+        <section class="about-section text-center" id="about" style="text-align: center; padding-bottom: 0; margin-bottom: 0;">
+            <div id="filter" style="margin-bottom: 20px;">
+                <div>
+                    <label for="road-quality-filter">Ceļu kvalitāte:</label>
+                    <select id="road-quality-filter">
+                        <option value="all">Rādīt visu</option>
+                        <option value="poor">Slikta</option>
+                        <option value="moderate">Vidēja</option>
+                        <option value="good">Laba</option>
+                    </select>
+                </div>
     
-    <!-- Scripts -->
-    <script src="script.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE&map_ids=bc02ef078ae8cd67&callback=initMap&loading=async" async defer></script>
-</body>
+                <div>
+                    <label for="paved-filter">Ceļa segums:</label>
+                    <select id="paved-filter">
+                        <option value="all">Rādīt visu</option>
+                        <option value="true">Asfaltēta</option>
+                        <option value="false">Neasfaltēta</option>
+                    </select>
+                </div>
+                
+                <div>
+                    <label for="sidewalk-filter">Ietves:</label>
+                    <select id="sidewalk-filter">
+                        <option value="all">Rādīt visu</option>
+                        <option value="yes">Ar</option>
+                        <option value="no">Bez</option>
+                    </select>
+                </div>
+                <!-- New zebra crossing filter added -->
+                <div>
+                    <label for="crossing-filter">Gājēju pārejas:</label>
+                    <select id="crossing-filter">
+                        <option value="all">Rādīt visu</option>
+                        <option value="yes">Rādīt gājēju pārejas</option>
+                        <option value="no">Paslēpt gājēju pārejas</option>
+                    </select>
+                </div>
+    
+                <div>
+                    <label for="obstacle-filter">Šķēršļi:</label>
+                    <select id="obstacle-filter">
+                        <option value="all">Rādīt visu</option>
+                        <option value="yes">Ar</option>
+                        <option value="no">Bez</option>
+                    </select>
+                </div>
+            </div>
+            <div id="map"></div>
+        </section>
+        <!-- Projects-->
+        <section class="projects-section bg-light" id="par-mums" style="padding-top: 0; margin-top: 0;">
+                <!-- Project One Row-->
+                <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid" src="static/img/Dārzciems,_Latgale_Suburb,_Riga,_Latvia_-_panoramio_-_Dmitrij_M_(8).jpg" alt="..." /></div>
+                    <div class="col-lg-6">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h3 class="text-white">Mūsu mērķis</h3>
+                                    <p class="mb-0 text-white-50">Sniegt digitālu un ikvienam pieejamu karti, kura paredzēta <strong>cilvēkiem ar kustību traucējumiem</strong>, taču to var izmantot ikviens, 
+                                        lai gūtu priekšstatu par Rīgas mikrorajonu <strong>ielu pieejamibu, drošību un kvalitāti</strong>.  
+                                        Šis projekts tiecas ne tikai <strong>uzlabot pārvietošanās iespējas</strong> cilvēkiem ar kustību traucējumiem, 
+                                        bet arī <strong>paaugstināt sabiedrības apziņu</strong> par ielu pieejamību visiem pilsētas iedzīvotājiem.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Two Row-->
+                <!-- <div class="row gx-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid" src="static/img/Dārzciems,_Latgale_Suburb,_Riga,_Latvia_-_panoramio_-_Dmitrij_M_(8).jpg" alt="..." /></div>
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <h4 class="text-white">Mountains</h4>
+                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </section>
+        <!-- Contact-->
+        <!-- <section class="contact-section bg-black">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Address</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-envelope text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Email</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a href="#!">hello@yourdomain.com</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50">+1 (555) 902-8832</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" href="#!"><i class="fab fa-github"></i></a>
+                </div>
+            </div> -->
+        </section>
+        <!-- Footer-->
+        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">Copyright &copy; Labākais Ceļš</div></footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="static/js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="map.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE&map_ids=bc02ef078ae8cd67&callback=initMap&loading=async" async defer></script>
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
 </html>
-
-<!-- api key: AIzaSyCrdqcJucrXLuA_-2HAGBIDbPSSkWoVQfE -->
-
- <!-- AIzaSyCOW_sYuxkKq82xaNsvoNYFJQcjOJb4t3s -->

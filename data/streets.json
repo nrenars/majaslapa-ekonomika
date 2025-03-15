@@ -10440,32 +10440,5 @@
       "sidewalk": true,
       "paved": true,
       "obstacles": []
-    },
-
-
-
-
-
-
-
-
-    {
-      "street_name": "Example Street",
-      "path": [
-        { "lat": 56.942, "lng": 24.178 },
-        { "lat": 56.943, "lng": 24.179 }
-      ],
-      "quality": "good",
-      "sidewalk": true,
-      "obstacles": [
-        {
-          "type": "tree",
-          "description": "Tree in the middle of a narrow sidewalk",
-          "image": "static/",
-          "lat": 56.9425,
-          "lng": 24.1785
-        }
-      ]
     }
-    
   ]
